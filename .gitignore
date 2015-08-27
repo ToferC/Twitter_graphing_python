@@ -4,6 +4,12 @@ search_tweets.py
 process_tweets.py
 list_unfollowers.py
 twitter_network_mod.py
+Twitter NX Tweet Graph.ipynb
+graph.json
+python.json
+python_user_twitter_graph.gexf
+twitter_analyis.sublime-workspace
+twitter_network.py
 read_tweets.py
 visualize.py
 bin/
@@ -11,6 +17,8 @@ following/
 lib/
 man/
 share/
-twitter_users/
+twitter-users/
+include
+.ipynb_checkpoints
 .Python
 
