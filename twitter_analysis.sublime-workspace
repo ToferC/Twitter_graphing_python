@@ -1,0 +1,1372 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"is_quote_status"
+			],
+			[
+				"quoted",
+				"quoted_status_id_str"
+			],
+			[
+				"Unicod",
+				"UnicodeEncodeError	(class)"
+			],
+			[
+				"tok",
+				"tokens	(statement)"
+			],
+			[
+				"read",
+				"readline	(function)"
+			],
+			[
+				"max",
+				"maxtweets	(param)"
+			],
+			[
+				"tw",
+				"tweetcount	(statement)"
+			],
+			[
+				"since",
+				"since_id"
+			],
+			[
+				"re",
+				"retweet_count"
+			],
+			[
+				"file",
+				"file_name	(statement)"
+			],
+			[
+				"foll",
+				"followers_count"
+			],
+			[
+				"data",
+				"data_file	(statement)"
+			],
+			[
+				"Tw",
+				"TweepError"
+			],
+			[
+				"twe",
+				"tweet_search	(function)"
+			],
+			[
+				"get",
+				"get_followers	(function)"
+			],
+			[
+				"fo",
+				"followers	(statement)"
+			],
+			[
+				"Twy",
+				"TwythonError"
+			],
+			[
+				"con",
+				"connect_node	(statement)"
+			],
+			[
+				"obje",
+				"object_count	(statement)"
+			],
+			[
+				"ob",
+				"object_count"
+			],
+			[
+				"Int",
+				"PositiveSmallIntegerField"
+			],
+			[
+				"Relationsh",
+				"RelationshipFormSetHelper	(class)"
+			],
+			[
+				"Real",
+				"RelationshipFormSet	(statement)"
+			],
+			[
+				"c",
+				"create_relationship_form	(function)"
+			],
+			[
+				"Story",
+				"StoryObject	(class)"
+			],
+			[
+				"Batch",
+				"BatchRelationshipForm	(class)"
+			],
+			[
+				"base_",
+				"base_of_operations"
+			],
+			[
+				"Model",
+				"ModelChoiceField"
+			],
+			[
+				"Ch",
+				"ChoiceField"
+			],
+			[
+				"Bat",
+				"BatchStoryObjectFormSetHelper	(class)"
+			],
+			[
+				"sto",
+				"storyobject_formset	(statement)"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"story",
+				"story_objects	(statement)"
+			],
+			[
+				"retur",
+				"return_json_graph	(function)"
+			],
+			[
+				"st",
+				"story_objects	(statement)"
+			],
+			[
+				"ret",
+				"return_object	(function)"
+			],
+			[
+				"Hyper",
+				"HyperlinkedRelatedField"
+			],
+			[
+				"Nation",
+				"NationViewSet	(class)"
+			],
+			[
+				"Rel",
+				"RelationshipViewSet	(class)"
+			],
+			[
+				"Relat",
+				"RelationshipSerializer	(class)"
+			],
+			[
+				"skil",
+				"skill_list	(statement)"
+			],
+			[
+				"SKil",
+				"SkillSerializerSet	(class)"
+			],
+			[
+				"Skill",
+				"SkillSerializerSet	(class)"
+			],
+			[
+				"Hyp",
+				"HyperlinkedRelatedField"
+			],
+			[
+				"gen",
+				"generics"
+			],
+			[
+				"rout",
+				"routers	(import)"
+			],
+			[
+				"view",
+				"viewsets	(import)"
+			],
+			[
+				"main",
+				"mainmap_form	(statement)"
+			],
+			[
+				"to_",
+				"to_storyobject__name"
+			],
+			[
+				"des",
+				"relationship_description"
+			],
+			[
+				"rel",
+				"relationship_class"
+			],
+			[
+				"from",
+				"from_storyobject"
+			],
+			[
+				"to",
+				"to_storyobject"
+			],
+			[
+				"so",
+				"so_type	(statement)"
+			],
+			[
+				"not",
+				"note_creator	(param)"
+			],
+			[
+				"objec",
+				"object_name	(param)"
+			],
+			[
+				"s",
+				"s_object	(param)"
+			],
+			[
+				"send",
+				"send_notification"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"base",
+				"base_of_operations"
+			],
+			[
+				"Conv",
+				"ConversationAdmin	(class)"
+			],
+			[
+				"sta",
+				"stat_toggle"
+			],
+			[
+				"Char",
+				"CharField"
+			],
+			[
+				"image",
+				"image_form	(statement)"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"K",
+				"KeyError	(class)"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect	(import)"
+			],
+			[
+				"HT",
+				"HttpResponseRedirect	(import)"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"user",
+				"user_passes_test	(import)"
+			],
+			[
+				"STATIC",
+				"STATIC_URL	(statement)"
+			],
+			[
+				"__",
+				"__file__	(instance)"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"date",
+				"datetime	(class)"
+			],
+			[
+				"Sc",
+				"ScratchPadForm	(import)"
+			],
+			[
+				"scra",
+				"scratchpadform	(statement)"
+			],
+			[
+				"conte",
+				"context_dict	(statement)"
+			],
+			[
+				"scrat",
+				"scratchpad_data	(statement)"
+			],
+			[
+				"Scrat",
+				"ScratchPadForm"
+			],
+			[
+				"markdown",
+				"MarkdownFormField	(import)"
+			],
+			[
+				"Scra",
+				"ScratchPadAdmin	(class)"
+			],
+			[
+				"rend",
+				"render_to_response"
+			],
+			[
+				"O",
+				"ON_PAAS	(statement)"
+			],
+			[
+				"local",
+				"local_settings	(module)"
+			],
+			[
+				"STAT",
+				"STATICFILES_DIRS	(statement)"
+			],
+			[
+				"STA",
+				"STATIC_ROOT	(statement)"
+			],
+			[
+				"str",
+				"strong	Tag"
+			],
+			[
+				"loca",
+				"location	(statement)"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tesx",
+				"text-justify"
+			],
+			[
+				"Dat",
+				"DateTimeField"
+			],
+			[
+				"Image",
+				"ImageField"
+			],
+			[
+				"chara",
+				"character_name_slug	(param)"
+			],
+			[
+				"gray",
+				"darkgray"
+			],
+			[
+				"Skil",
+				"SkillForm	(import)"
+			],
+			[
+				"Ht",
+				"HttpResponseRedirect	(import)"
+			],
+			[
+				"character",
+				"character_slug	(param)"
+			],
+			[
+				"char",
+				"character	(function)"
+			],
+			[
+				"Com",
+				"CombatInfo"
+			],
+			[
+				"combat_info_",
+				"combat_info_list	(statement)"
+			],
+			[
+				"Comb",
+				"CombatInfoForm"
+			],
+			[
+				"Stati",
+				"StatisticForm"
+			],
+			[
+				"Memb",
+				"MembershipAdmin	(class)"
+			],
+			[
+				"or",
+				"organization	(statement)"
+			],
+			[
+				"scne",
+				"scene_form	(statement)"
+			],
+			[
+				"scene",
+				"scene_form	(statement)"
+			],
+			[
+				"stor",
+				"story	(function)"
+			],
+			[
+				"Scen",
+				"SceneForm	(import)"
+			],
+			[
+				"sce",
+				"scene_form	(statement)"
+			],
+			[
+				"charac",
+				"character_list	(statement)"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"organ",
+				"organization	(function)"
+			],
+			[
+				"org",
+				"organization	(function)"
+			],
+			[
+				"organization",
+				"organization_slug	(param)"
+			],
+			[
+				"Cha",
+				"Character	(class)"
+			],
+			[
+				"artifact",
+				"artifact_data	(statement)"
+			],
+			[
+				"arti",
+				"artifact_name_slug	(param)"
+			],
+			[
+				"u",
+				"ul	<ul>"
+			],
+			[
+				"artifa",
+				"artifact_data	(statement)"
+			],
+			[
+				"location",
+				"location_features	(statement)"
+			],
+			[
+				"locationform",
+				"location_form	(statement)"
+			],
+			[
+				"save",
+				"save_m2m	(function)"
+			],
+			[
+				"characters",
+				"characters_set"
+			],
+			[
+				"chapter",
+				"chapter_slug"
+			],
+			[
+				"chap",
+				"chapter_title_slug	(param)"
+			],
+			[
+				"Chapt",
+				"ChapterForm	(class)"
+			],
+			[
+				"dat",
+				"datetime	(class)"
+			],
+			[
+				"template",
+				"template_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "py_twi.py",
+			"settings":
+			{
+				"buffer_size": 1752,
+				"line_ending": "Unix",
+				"name": "import twitter"
+			}
+		},
+		{
+			"file": "get_followers.py",
+			"settings":
+			{
+				"buffer_size": 6522,
+				"line_ending": "Unix",
+				"name": "import tweepy"
+			}
+		},
+		{
+			"file": "search_tweets.py",
+			"settings":
+			{
+				"buffer_size": 2458,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "search_twitter_to_json.py",
+			"settings":
+			{
+				"buffer_size": 4947,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "process_tweets.py",
+			"settings":
+			{
+				"buffer_size": 1469,
+				"line_ending": "Unix",
+				"name": "import nltk"
+			}
+		},
+		{
+			"file": "list_unfollowers.py",
+			"settings":
+			{
+				"buffer_size": 2063,
+				"line_ending": "Unix",
+				"name": "mport tweepy"
+			}
+		},
+		{
+			"file": "twitter_network_mod.py",
+			"settings":
+			{
+				"buffer_size": 951,
+				"line_ending": "Unix",
+				"name": "import glob"
+			}
+		},
+		{
+			"file": "visualize.py",
+			"settings":
+			{
+				"buffer_size": 1516,
+				"line_ending": "Unix",
+				"name": "import networkx as net"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"djan",
+				"Django: Shell"
+			],
+			[
+				"djang",
+				"Django: Click"
+			],
+			[
+				"dja",
+				"Django: Click"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pl",
+				"Package Control: List Packages"
+			],
+			[
+				"css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/christopherallison/.virtualenvs/py_twi",
+		"/Users/christopherallison/.virtualenvs/py_twi/data",
+		"/Users/christopherallison/.virtualenvs/py_twi/results"
+	],
+	"file_history":
+	[
+		"/Users/christopherallison/.virtualenvs/py_twi/data/karate_graph.json",
+		"/Users/christopherallison/.virtualenvs/py_twi/w2p.json",
+		"/Users/christopherallison/.virtualenvs/py_twi/%23bigdata.json",
+		"/Users/christopherallison/.virtualenvs/py_twi/results/search_debate.json",
+		"/Users/christopherallison/.virtualenvs/py_twi/python_search.json",
+		"/Users/christopherallison/.virtualenvs/py_twi/dataviz_search.json",
+		"/Users/christopherallison/.virtualenvs/py_twi/tweets.json",
+		"/Users/christopherallison/.virtualenvs/py_twi/following/ToferC.csv",
+		"/Users/christopherallison/.virtualenvs/py_twi/twitter_graph_mod2.gexf",
+		"/Users/christopherallison/.virtualenvs/py_twi/twitter_graph_mod.gexf",
+		"/Users/christopherallison/Documents/Coding/Python/Network Graph/force/force.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/base.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/storyobject.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/personas/apps.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_batch_relationship.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_batch_storyobject.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_statistics.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/story.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/workshop.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/index.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/location.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/network_personas.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/relationship_map.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/requirements.txt",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/runtime.txt",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/autofill_character.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/personas/personas_email.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/static/personas/css/bootstrap-theme-light.css",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_skills.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_relationships.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_gallery_image.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_combat_info.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_aspect.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_ability.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_storyobject.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/chapter.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/scene.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/mainmap.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/convert_orgs.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_nation.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_scene.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_chapter.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_location.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_mainmap.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_location.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/email.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/personas/templatetags/personas_extras.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/personas/templatetags/__init__.py",
+		"/Users/christopherallison/.virtualenvs/persona2/lib/python3.4/site-packages/watson/templatetags/watson.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_organization.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/watson/includes/search_result_item.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/watson/search_results.html",
+		"/Users/christopherallison/.virtualenvs/persona2/lib/python3.4/site-packages/watson/templates/watson/includes/search_results.html",
+		"/Users/christopherallison/.virtualenvs/persona2/lib/python3.4/site-packages/watson/templates/watson/includes/search_result_item.html",
+		"/Users/christopherallison/.virtualenvs/persona2/bin/activate",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/static/personas/css/bootstrap-theme-dark.css",
+		"/Users/christopherallison/.virtualenvs/persona2/lib/python3.4/site-packages/pinax/notifications/templates/pinax/notifications/email_body.txt",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/manage.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/create_story.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_nation.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/nation.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/staticfiles/personas/css/bootstrap-theme-light.css",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/register.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/organization.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_chapter.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/note.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_note.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_note.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/personas/migrations/0026_auto_20150511_0215.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/.gitignore",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_aspect.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_aspect.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_membership.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_artifact.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_trait.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_relationship.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_organization.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_membership.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_combat_info.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_artifact.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_ability.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_story.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_statistic.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_skill.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_scene.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_storyobject.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_trait.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_storyobject.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/personas/migrations/0017_auto_20150508_1803.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/staticfiles/personas/css/bootstrap-theme-dark.css",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/character.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/about.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/.buildpacks",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/add_character.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/artifact.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/personas/migrations/0013_auto_20150501_0020.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/personas/static/personas/css/bootstrap-theme-dark.css",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/personas/static/personas/css/bootstrap-theme-light.css",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/persona2/urls.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/login.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/persona2/wsgi.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/setup.py",
+		"/Users/christopherallison/Documents/Coding/Django-Personas/MANIFEST.in",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/personas/__init__.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/Procfile",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/static/personas/css/django_talk.py",
+		"/Users/christopherallison/Documents/Coding/Django-Personas/README.rst",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/persona2/settings_prod.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/redirect_template.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/.slugignore",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/dummy_settings.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/custom_storages.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/persona2/custom_storages.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/persona2/keys.py",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/.boto",
+		"/Users/christopherallison/.virtualenvs/persona2/bin/gunicorn_start.sh",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_nation.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_artifact.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_membership.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_scene.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_chapter.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_organization.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/collections.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_location.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_character.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_ability.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_trait.html",
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_character.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>",
+			"",
+			"/Users/christopherallison/.virtualenvs/persona2/persona2",
+			"<current file>",
+			"/Users/christopherallison/.virtualenvs/persona2/persona2",
+			"<open folders>,/Users/christopherallison/.virtualenvs/persona2/lib/python3.4/site-packages/pinax/notifications",
+			"<open folders>",
+			"<open files>,/Users/christopherallison/.virtualenvs/persona2/lib/python3.4/site-packages/pinax/notifications/templates/pinax",
+			"<current file>",
+			"<open files>",
+			"<current file>",
+			"<open files>",
+			"<open files>,/Users/christopherallison/.virtualenvs/persona2/persona2,<open files>",
+			"<open files>,/Users/christopherallison/.virtualenvs/persona2/persona2",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"enc",
+			"watson",
+			"stories",
+			"MainMap",
+			"objectdoes",
+			"pinax",
+			"title",
+			"story.title",
+			"title",
+			"Select a valid choice",
+			"select a valid choice",
+			"noticesetting",
+			"notifications_noticesetting",
+			"organizations",
+			"markdown",
+			"buffer",
+			"left",
+			"50",
+			"markdown",
+			"50",
+			"trait",
+			"character",
+			"endif",
+			"else",
+			"50",
+			"tyle",
+			"add",
+			"50",
+			"orga",
+			"specialability",
+			"SpecialAbility",
+			"aspect",
+			"trait",
+			"character",
+			"storyobject.objects",
+			"story_object",
+			"storyobject.objects",
+			"story_object",
+			"storyobject",
+			"story_object",
+			"character",
+			"SECRET KEY",
+			"tab",
+			"organization",
+			"trait",
+			"relationship",
+			"chapter",
+			"organization",
+			"location",
+			"footer",
+			"character=character",
+			"location",
+			"story",
+			"specialability",
+			"skill",
+			"specialability",
+			"relationship",
+			"skill",
+			"organization",
+			"stat",
+			"skill",
+			"organization",
+			"location",
+			"scene",
+			"author",
+			"artifact",
+			"chapter",
+			"chapter_title_slug",
+			"chapter",
+			"relationship",
+			"character",
+			"ability",
+			"trait",
+			"trait_form1",
+			"trait_form2",
+			"trait_form3",
+			"trait_form4",
+			"trait_form3",
+			"trait_form2",
+			"trait_form1",
+			"container",
+			"StoryMap",
+			"chapter",
+			"character",
+			"scene",
+			"table",
+			"Artifact",
+			"Skill",
+			"self.",
+			"Nation",
+			"Nationality",
+			"person",
+			"Person",
+			"default",
+			"Persons"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			" <h3>Published Areas:</h3>\n                        {% if published_stories %}\n                                {% for story in published_stories %}\n                                    <a class=\"btn btn-success btn-sm\" style=\"background:black\" href=\"/personas/story/{{ story.slug }}\">\n                                    {% thumbnail story.image \"30x30\" crop=\"center\" as im %}\n                                    <img src=\"{{ im.url }}\" width=\"{{ im.width }}\" height=\"{{ im.height }}\">{% endthumbnail %}   {{ story }}</a>\n                                {% endfor %}\n                        {% else %}\n                            <strong>No stories.</strong>\n                            <br><br>\n                        {% endif %}\n\n                        <h3>Unublished Areas:</h3>\n                        {% if unpublished_stories %}\n                                {% for story in unpublished_stories %}\n                                    <a class=\"btn btn-success btn-sm\" style=\"background:black\" href=\"/personas/story/{{ story.slug }}\">\n                                    {% thumbnail story.image \"30x30\" crop=\"center\" as im %}\n                                    <img src=\"{{ im.url }}\" width=\"{{ im.width }}\" height=\"{{ im.height }}\">{% endthumbnail %}   {{ story }}</a>\n                                {% endfor %}\n                        {% else %}\n                            <strong>No stories.</strong>\n                            <br><br>\n                        {% endif %}",
+			"published_stories",
+			"<div class=\"col-md-4 col-sm-4 col-lg-4\" id=\"col1\">\n                <div class=\"row\">\n                        <h3>Published Areas:</h3>\n                        {% if published_stories %}\n                                {% for story in published_stories %}\n                                    <a class=\"btn btn-success btn-sm\" style=\"background:black\" href=\"/personas/story/{{ story.slug }}\">\n                                    {% thumbnail story.image \"30x30\" crop=\"center\" as im %}\n                                    <img src=\"{{ im.url }}\" width=\"{{ im.width }}\" height=\"{{ im.height }}\">{% endthumbnail %}   {{ story }}</a>\n                                {% endfor %}\n                        {% else %}\n                            <strong>No stories.</strong>\n                            <br><br>\n                        {% endif %}\n\n                        <h3>Unublished Areas:</h3>\n                        {% if unpublished_stories %}\n                                {% for story in unpublished_stories %}\n                                    <a class=\"btn btn-success btn-sm\" style=\"background:black\" href=\"/personas/story/{{ story.slug }}\">\n                                    {% thumbnail story.image \"30x30\" crop=\"center\" as im %}\n                                    <img src=\"{{ im.url }}\" width=\"{{ im.width }}\" height=\"{{ im.height }}\">{% endthumbnail %}   {{ story }}</a>\n                                {% endfor %}\n                        {% else %}\n                            <strong>No stories.</strong>\n                            <br><br>\n                        {% endif %}\n",
+			"areas",
+			"story.name",
+			"name",
+			"aspect",
+			"storyobject",
+			"ability",
+			"Ability",
+			"Aspect",
+			"aspect",
+			"storyobject",
+			"StoryObject.objects",
+			"storyobject",
+			"StoryObject.objects",
+			"storyobject",
+			"story_object",
+			"nation",
+			"artifact",
+			"membership",
+			"scene",
+			"chapter",
+			"organization",
+			"character",
+			"combat_info",
+			"story",
+			"specialability",
+			"statistic",
+			"relationship",
+			"nation",
+			"statistics",
+			"combat_info",
+			"statistic",
+			"stat",
+			"membership",
+			"organization",
+			"artifact",
+			"location",
+			"artifact",
+			"organizaton",
+			"location",
+			"scene",
+			"chapter",
+			"story",
+			"relationship",
+			"artifact",
+			"skill",
+			"one_trait_form",
+			"two_trait_form",
+			"three_trait_form",
+			"four_trait_form",
+			"three_trait_form",
+			"two_trait_form",
+			"one_trait_form",
+			"MainMap",
+			"story",
+			"scene",
+			"chapter",
+			"",
+			"Culture",
+			"Character"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "py_twi.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								804,
+								804
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import twitter",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "get_followers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								272,
+								272
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import tweepy",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "search_tweets.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1867,
+								1898
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "search_twitter_to_json.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2649,
+								2649
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 659.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "process_tweets.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import nltk",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "list_unfollowers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2063,
+								2063
+							]
+						],
+						"settings":
+						{
+							"auto_name": "mport tweepy",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 418.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "twitter_network_mod.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import glob",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "visualize.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								1477
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import networkx as net",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 195.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "twitter_analysis.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Coding/Python/Network Graph/network_graph.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 544.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

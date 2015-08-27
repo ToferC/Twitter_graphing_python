@@ -1,0 +1,4686 @@
+{
+ "633276311616647168": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "tinyurl.com/p4uucby",
+     "url": "http://t.co/n3fzuiig1C",
+     "expanded_url": "http://tinyurl.com/p4uucby",
+     "indices": [
+      97,
+      119
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "onlineshop",
+     "indices": [
+      120,
+      131
+     ]
+    },
+    {
+     "text": "w2p",
+     "indices": [
+      132,
+      136
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Tue May 19 13:14:19 +0000 2009",
+   "contributors_enabled": false,
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Bedarfsgerechte und bezahlbare #webtoprint L\u00f6sungen f\u00fcr Ihr #print #ecommerce #business. Es twittert das Marketing der @bebeyond_de aus Willich am Niederrhein.",
+   "followers_count": 233,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "listed_count": 24,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "profile_background_color": "ECE8E7",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Willich, Nordrhein-Westfalen",
+   "url": "http://t.co/Du0wOndrn8",
+   "protected": false,
+   "lang": "de",
+   "time_zone": "Berlin",
+   "statuses_count": 1648,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "lead-print.com",
+       "url": "http://t.co/Du0wOndrn8",
+       "expanded_url": "http://www.lead-print.com",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "E98100",
+   "name": "Lead-Print",
+   "favourites_count": 70,
+   "id": 41112288,
+   "screen_name": "leadprint",
+   "id_str": "41112288",
+   "utc_offset": 7200,
+   "notifications": false,
+   "profile_sidebar_border_color": "000000",
+   "friends_count": 451,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/41112288/1438148133",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "onlineshop",
+    "indices": [
+     120,
+     131
+    ]
+   },
+   {
+    "text": "w2p",
+    "indices": [
+     132,
+     136
+    ]
+   }
+  ],
+  "id_str": "633276311616647168",
+  "user_screen_name": "leadprint",
+  "favorite_count": 0,
+  "date": "2015-08-17 13:56:53",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "tinyurl.com/p4uucby",
+    "url": "http://t.co/n3fzuiig1C",
+    "expanded_url": "http://tinyurl.com/p4uucby",
+    "indices": [
+     97,
+     119
+    ]
+   }
+  ],
+  "lang": "de",
+  "text": "Karstadt kapituliert vor dem E-Commerce: Am Online-Handel kommt kein H\u00e4ndler vorbei, h\u00f6rt man... http://t.co/n3fzuiig1C #onlineshop #w2p",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "632226284119060481": {
+  "retweet_count": 0,
+  "entities": {
+   "media": [
+    {
+     "type": "photo",
+     "expanded_url": "http://twitter.com/pixopa/status/632226284119060481/photo/1",
+     "media_url_https": "https://pbs.twimg.com/media/CMYedBkUkAEjO2v.png",
+     "display_url": "pic.twitter.com/im2FE0KQxr",
+     "url": "http://t.co/im2FE0KQxr",
+     "sizes": {
+      "large": {
+       "resize": "fit",
+       "w": 1024,
+       "h": 198
+      },
+      "medium": {
+       "resize": "fit",
+       "w": 600,
+       "h": 116
+      },
+      "small": {
+       "resize": "fit",
+       "w": 340,
+       "h": 65
+      },
+      "thumb": {
+       "resize": "crop",
+       "w": 150,
+       "h": 150
+      }
+     },
+     "id": 632226281677950977,
+     "id_str": "632226281677950977",
+     "media_url": "http://pbs.twimg.com/media/CMYedBkUkAEjO2v.png",
+     "indices": [
+      118,
+      140
+     ]
+    }
+   ],
+   "symbols": [],
+   "urls": [],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "webtoprint",
+     "indices": [
+      101,
+      112
+     ]
+    },
+    {
+     "text": "w2p",
+     "indices": [
+      113,
+      117
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Sun Mar 04 23:13:26 +0000 2012",
+   "contributors_enabled": false,
+   "geo_enabled": false,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Pixopa offers Web-to-Print Solutions that include World\u2019s most advanced HTML5-based Online Design Studio, Hosted Ecommerce Storefronts and Magento Plugin.",
+   "followers_count": 158,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/2679872656/19b48abc31dc3c191974491197389534_normal.jpeg",
+   "listed_count": 27,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/2679872656/19b48abc31dc3c191974491197389534_normal.jpeg",
+   "profile_background_color": "379CA8",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "",
+   "url": "http://t.co/QIEFeheZgj",
+   "protected": false,
+   "lang": "en",
+   "time_zone": "Eastern Time (US & Canada)",
+   "statuses_count": 183,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/676382690/da28af6c0cdff89935ff3bb43ae55835.jpeg",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "pixopa.com",
+       "url": "http://t.co/QIEFeheZgj",
+       "expanded_url": "http://www.pixopa.com",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "379CA8",
+   "name": "Pixopa Web-to-Print",
+   "favourites_count": 1,
+   "id": 514871209,
+   "screen_name": "pixopa",
+   "id_str": "514871209",
+   "utc_offset": -14400,
+   "notifications": false,
+   "profile_sidebar_border_color": "000000",
+   "friends_count": 326,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/676382690/da28af6c0cdff89935ff3bb43ae55835.jpeg",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "webtoprint",
+    "indices": [
+     101,
+     112
+    ]
+   },
+   {
+    "text": "w2p",
+    "indices": [
+     113,
+     117
+    ]
+   }
+  ],
+  "id_str": "632226284119060481",
+  "user_screen_name": "pixopa",
+  "favorite_count": 0,
+  "date": "2015-08-14 16:24:26",
+  "user_mentions": [],
+  "urls": [],
+  "lang": "en",
+  "text": "Google Image Search feature is added to our HTML5 Design Tool. You can see it work on our demo site. #webtoprint #w2p http://t.co/im2FE0KQxr",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631262600895053824": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "xerox.bz/1Mn0Ell",
+     "url": "http://t.co/aHIiyHtwe4",
+     "expanded_url": "http://xerox.bz/1Mn0Ell",
+     "indices": [
+      49,
+      71
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "W2P",
+     "indices": [
+      35,
+      39
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Wed Feb 04 20:47:07 +0000 2009",
+   "contributors_enabled": false,
+   "geo_enabled": false,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "The official twitter for Xerox Production Printing Technology and Solutions",
+   "followers_count": 16973,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/509349419670450176/K4wSh2UN_normal.jpeg",
+   "listed_count": 421,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/509349419670450176/K4wSh2UN_normal.jpeg",
+   "profile_background_color": "FFFFFF",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Rochester, NY",
+   "url": "http://t.co/2iWdzh7p5U",
+   "protected": false,
+   "lang": "en",
+   "time_zone": "Quito",
+   "statuses_count": 11751,
+   "following": false,
+   "profile_text_color": "222222",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/509349335880826881/7RXXWE_0.jpeg",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "xerox.com/digital-printi\u2026",
+       "url": "http://t.co/2iWdzh7p5U",
+       "expanded_url": "http://www.xerox.com/digital-printing/index.html",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "E67700",
+   "name": "Xerox Production",
+   "favourites_count": 1140,
+   "id": 20091456,
+   "screen_name": "XeroxProduction",
+   "id_str": "20091456",
+   "utc_offset": -18000,
+   "notifications": false,
+   "profile_sidebar_border_color": "FFFFFF",
+   "friends_count": 2965,
+   "profile_sidebar_fill_color": "FFFFFF",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/509349335880826881/7RXXWE_0.jpeg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/20091456/1400013883",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "W2P",
+    "indices": [
+     35,
+     39
+    ]
+   }
+  ],
+  "id_str": "631262600895053824",
+  "user_screen_name": "XeroxProduction",
+  "favorite_count": 0,
+  "date": "2015-08-12 00:35:07",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "xerox.bz/1Mn0Ell",
+    "url": "http://t.co/aHIiyHtwe4",
+    "expanded_url": "http://xerox.bz/1Mn0Ell",
+    "indices": [
+     49,
+     71
+    ]
+   }
+  ],
+  "lang": "en",
+  "text": "9 Ideas for Maximizing Use of Your #W2P Solution http://t.co/aHIiyHtwe4",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631891570816610304": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "gov.uk/design-princip\u2026",
+     "url": "https://t.co/6FWJzNQORw",
+     "expanded_url": "https://www.gov.uk/design-principles#fourth",
+     "indices": [
+      93,
+      116
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      3,
+      12
+     ],
+     "name": "Mike Gifford",
+     "screen_name": "mgifford",
+     "id": 18268293,
+     "id_str": "18268293"
+    },
+    {
+     "indices": [
+      121,
+      129
+     ],
+     "name": "GDS",
+     "screen_name": "gdsteam",
+     "id": 268349503,
+     "id_str": "268349503"
+    }
+   ],
+   "hashtags": [
+    {
+     "text": "w2p",
+     "indices": [
+      130,
+      134
+     ]
+    },
+    {
+     "text": "gov",
+     "indices": [
+      135,
+      139
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Sat Feb 28 13:17:39 +0000 2009",
+   "contributors_enabled": false,
+   "geo_enabled": false,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Passionate about Father engagement, web technologies, social media and Govt 2.0 - A Geek D.I.Y'er who loves his gadgets ;-)",
+   "followers_count": 1305,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180039385/Pat_at_C3_normal.jpg",
+   "listed_count": 109,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1180039385/Pat_at_C3_normal.jpg",
+   "profile_background_color": "131516",
+   "verified": false,
+   "profile_background_tile": true,
+   "default_profile_image": false,
+   "location": "Ottawa,Canada",
+   "url": null,
+   "protected": false,
+   "lang": "en",
+   "time_zone": "Central Time (US & Canada)",
+   "statuses_count": 3104,
+   "following": true,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "009999",
+   "name": "Patrice Collin",
+   "favourites_count": 11,
+   "id": 22253683,
+   "screen_name": "pcollin",
+   "id_str": "22253683",
+   "utc_offset": -18000,
+   "notifications": false,
+   "profile_sidebar_border_color": "EEEEEE",
+   "friends_count": 2002,
+   "profile_sidebar_fill_color": "EFEFEF",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "w2p",
+    "indices": [
+     130,
+     134
+    ]
+   },
+   {
+    "text": "gov",
+    "indices": [
+     135,
+     139
+    ]
+   }
+  ],
+  "id_str": "631891570816610304",
+  "user_screen_name": "pcollin",
+  "favorite_count": 1,
+  "date": "2015-08-13 18:14:25",
+  "user_mentions": [
+   {
+    "indices": [
+     3,
+     12
+    ],
+    "name": "Mike Gifford",
+    "screen_name": "mgifford",
+    "id": 18268293,
+    "id_str": "18268293"
+   },
+   {
+    "indices": [
+     121,
+     129
+    ],
+    "name": "GDS",
+    "screen_name": "gdsteam",
+    "id": 268349503,
+    "id_str": "268349503"
+   }
+  ],
+  "urls": [
+   {
+    "display_url": "gov.uk/design-princip\u2026",
+    "url": "https://t.co/6FWJzNQORw",
+    "expanded_url": "https://www.gov.uk/design-principles#fourth",
+    "indices": [
+     93,
+     116
+    ]
+   }
+  ],
+  "lang": "en",
+  "text": "RT @mgifford: Govt Digital Service - Design Principles 4) Do the hard work to make it simple https://t.co/6FWJzNQORw via @gdsteam #w2p #gov",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631112068402278402": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "bit.ly/1ICBvyO",
+     "url": "http://t.co/71H9QceWsS",
+     "expanded_url": "http://bit.ly/1ICBvyO",
+     "indices": [
+      97,
+      119
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "onlineshop",
+     "indices": [
+      120,
+      131
+     ]
+    },
+    {
+     "text": "w2p",
+     "indices": [
+      132,
+      136
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Tue May 19 13:14:19 +0000 2009",
+   "contributors_enabled": false,
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Bedarfsgerechte und bezahlbare #webtoprint L\u00f6sungen f\u00fcr Ihr #print #ecommerce #business. Es twittert das Marketing der @bebeyond_de aus Willich am Niederrhein.",
+   "followers_count": 233,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "listed_count": 24,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "profile_background_color": "ECE8E7",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Willich, Nordrhein-Westfalen",
+   "url": "http://t.co/Du0wOndrn8",
+   "protected": false,
+   "lang": "de",
+   "time_zone": "Berlin",
+   "statuses_count": 1648,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "lead-print.com",
+       "url": "http://t.co/Du0wOndrn8",
+       "expanded_url": "http://www.lead-print.com",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "E98100",
+   "name": "Lead-Print",
+   "favourites_count": 70,
+   "id": 41112288,
+   "screen_name": "leadprint",
+   "id_str": "41112288",
+   "utc_offset": 7200,
+   "notifications": false,
+   "profile_sidebar_border_color": "000000",
+   "friends_count": 451,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/41112288/1438148133",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "onlineshop",
+    "indices": [
+     120,
+     131
+    ]
+   },
+   {
+    "text": "w2p",
+    "indices": [
+     132,
+     136
+    ]
+   }
+  ],
+  "id_str": "631112068402278402",
+  "user_screen_name": "leadprint",
+  "favorite_count": 0,
+  "date": "2015-08-11 14:36:57",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "bit.ly/1ICBvyO",
+    "url": "http://t.co/71H9QceWsS",
+    "expanded_url": "http://bit.ly/1ICBvyO",
+    "indices": [
+     97,
+     119
+    ]
+   }
+  ],
+  "lang": "de",
+  "text": "Jetzt noch anmelden: XBorder 2015 \u201cDer Umgang mit Daten\u201d: Shopbetreiber, die international un... http://t.co/71H9QceWsS #onlineshop #w2p",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631525526608293888": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "propago.com/graphexpo2015",
+     "url": "http://t.co/Tep4hqsCgT",
+     "expanded_url": "http://propago.com/graphexpo2015",
+     "indices": [
+      97,
+      119
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      22,
+      38
+     ],
+     "name": "Propago",
+     "screen_name": "propagoplatform",
+     "id": 3252030247,
+     "id_str": "3252030247"
+    }
+   ],
+   "hashtags": [
+    {
+     "text": "GraphExpo",
+     "indices": [
+      51,
+      61
+     ]
+    },
+    {
+     "text": "W2P",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "B2B",
+     "indices": [
+      126,
+      130
+     ]
+    },
+    {
+     "text": "beahero",
+     "indices": [
+      131,
+      139
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Sun Jun 21 19:51:07 +0000 2015",
+   "contributors_enabled": false,
+   "geo_enabled": false,
+   "profile_use_background_image": false,
+   "follow_request_sent": false,
+   "description": "A holistic Marketing Management Platform that allows you to streamline ordering, production, fulfillment and distribution of all your marketing assets.",
+   "followers_count": 128,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/613076573227343872/C5FtKUE9_normal.jpg",
+   "listed_count": 6,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/613076573227343872/C5FtKUE9_normal.jpg",
+   "profile_background_color": "000000",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Austin, TX",
+   "url": "http://t.co/5UQWNq53T8",
+   "protected": false,
+   "lang": "en",
+   "time_zone": "Central Time (US & Canada)",
+   "statuses_count": 22,
+   "following": false,
+   "profile_text_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "propago.com",
+       "url": "http://t.co/5UQWNq53T8",
+       "expanded_url": "http://www.propago.com",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "228891",
+   "name": "Propago",
+   "favourites_count": 3,
+   "id": 3252030247,
+   "screen_name": "propagoplatform",
+   "id_str": "3252030247",
+   "utc_offset": -18000,
+   "notifications": false,
+   "profile_sidebar_border_color": "000000",
+   "friends_count": 383,
+   "profile_sidebar_fill_color": "000000",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3252030247/1435085218",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "GraphExpo",
+    "indices": [
+     51,
+     61
+    ]
+   },
+   {
+    "text": "W2P",
+    "indices": [
+     121,
+     125
+    ]
+   },
+   {
+    "text": "B2B",
+    "indices": [
+     126,
+     130
+    ]
+   },
+   {
+    "text": "beahero",
+    "indices": [
+     131,
+     139
+    ]
+   }
+  ],
+  "id_str": "631525526608293888",
+  "user_screen_name": "propagoplatform",
+  "favorite_count": 1,
+  "date": "2015-08-12 17:59:53",
+  "user_mentions": [
+   {
+    "indices": [
+     22,
+     38
+    ],
+    "name": "Propago",
+    "screen_name": "propagoplatform",
+    "id": 3252030247,
+    "id_str": "3252030247"
+   }
+  ],
+  "urls": [
+   {
+    "display_url": "propago.com/graphexpo2015",
+    "url": "http://t.co/Tep4hqsCgT",
+    "expanded_url": "http://propago.com/graphexpo2015",
+    "indices": [
+     97,
+     119
+    ]
+   }
+  ],
+  "lang": "en",
+  "text": "Buckle in for a ride! @propagoplatform is going to #GraphExpo to shake some things up! Check out http://t.co/Tep4hqsCgT  #W2P #B2B #beahero",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631114368990756865": {
+  "retweet_count": 0,
+  "entities": {
+   "media": [
+    {
+     "type": "photo",
+     "expanded_url": "http://twitter.com/GregoryPings/status/631114368990756865/photo/1",
+     "media_url_https": "https://pbs.twimg.com/media/CMIrLLiWcAA7Boc.jpg",
+     "display_url": "pic.twitter.com/fMvJSiquoD",
+     "url": "http://t.co/fMvJSiquoD",
+     "sizes": {
+      "medium": {
+       "resize": "fit",
+       "w": 505,
+       "h": 253
+      },
+      "large": {
+       "resize": "fit",
+       "w": 505,
+       "h": 253
+      },
+      "small": {
+       "resize": "fit",
+       "w": 340,
+       "h": 170
+      },
+      "thumb": {
+       "resize": "crop",
+       "w": 150,
+       "h": 150
+      }
+     },
+     "id": 631114368860712960,
+     "id_str": "631114368860712960",
+     "media_url": "http://pbs.twimg.com/media/CMIrLLiWcAA7Boc.jpg",
+     "indices": [
+      117,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "buff.ly/1DJPOT7",
+     "url": "http://t.co/7XvKyUvRQa",
+     "expanded_url": "http://buff.ly/1DJPOT7",
+     "indices": [
+      46,
+      68
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      86,
+      102
+     ],
+     "name": "Xerox Production",
+     "screen_name": "XeroxProduction",
+     "id": 20091456,
+     "id_str": "20091456"
+    }
+   ],
+   "hashtags": [
+    {
+     "text": "W2P",
+     "indices": [
+      41,
+      45
+     ]
+    },
+    {
+     "text": "XRXemployee",
+     "indices": [
+      69,
+      81
+     ]
+    },
+    {
+     "text": "DigitalPrint",
+     "indices": [
+      103,
+      116
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Wed Mar 11 15:24:50 +0000 2009",
+   "contributors_enabled": false,
+   "geo_enabled": true,
+   "profile_use_background_image": false,
+   "follow_request_sent": false,
+   "description": "For pay: Stories about  business and the industries where Xerox competes.\nFor passion: Stories about serving our society and helping all people live better.",
+   "followers_count": 304,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000371292208/ecd96f8c4f24ccb12887483f8622ae2a_normal.jpeg",
+   "listed_count": 119,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000371292208/ecd96f8c4f24ccb12887483f8622ae2a_normal.jpeg",
+   "profile_background_color": "7053AA",
+   "verified": false,
+   "profile_background_tile": true,
+   "default_profile_image": false,
+   "location": "Western Connecticut",
+   "url": "https://t.co/7ipj7IQo07",
+   "protected": false,
+   "lang": "en",
+   "time_zone": "Eastern Time (US & Canada)",
+   "statuses_count": 3602,
+   "following": false,
+   "profile_text_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "simplifywork.blogs.xerox.com/author/gregpin\u2026",
+       "url": "https://t.co/7ipj7IQo07",
+       "expanded_url": "https://simplifywork.blogs.xerox.com/author/gregpings/",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "9266CC",
+   "name": "Gregory Pings",
+   "favourites_count": 435,
+   "id": 23777396,
+   "screen_name": "GregoryPings",
+   "id_str": "23777396",
+   "utc_offset": -14400,
+   "notifications": false,
+   "profile_sidebar_border_color": "000000",
+   "friends_count": 208,
+   "profile_sidebar_fill_color": "000000",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/23777396/1398338416",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "W2P",
+    "indices": [
+     41,
+     45
+    ]
+   },
+   {
+    "text": "XRXemployee",
+    "indices": [
+     69,
+     81
+    ]
+   },
+   {
+    "text": "DigitalPrint",
+    "indices": [
+     103,
+     116
+    ]
+   }
+  ],
+  "id_str": "631114368990756865",
+  "user_screen_name": "GregoryPings",
+  "favorite_count": 0,
+  "date": "2015-08-11 14:46:05",
+  "user_mentions": [
+   {
+    "indices": [
+     86,
+     102
+    ],
+    "name": "Xerox Production",
+    "screen_name": "XeroxProduction",
+    "id": 20091456,
+    "id_str": "20091456"
+   }
+  ],
+  "urls": [
+   {
+    "display_url": "buff.ly/1DJPOT7",
+    "url": "http://t.co/7XvKyUvRQa",
+    "expanded_url": "http://buff.ly/1DJPOT7",
+    "indices": [
+     46,
+     68
+    ]
+   }
+  ],
+  "lang": "en",
+  "text": "9 Ideas to Maximize Web-to-Print portal. #W2P http://t.co/7XvKyUvRQa #XRXemployee via @XeroxProduction #DigitalPrint http://t.co/fMvJSiquoD",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631545293088116736": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "leadprint",
+     "indices": [
+      84,
+      94
+     ]
+    },
+    {
+     "text": "weareleadprint",
+     "indices": [
+      109,
+      124
+     ]
+    },
+    {
+     "text": "sales",
+     "indices": [
+      125,
+      131
+     ]
+    },
+    {
+     "text": "w2p",
+     "indices": [
+      132,
+      136
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Tue May 19 13:14:19 +0000 2009",
+   "contributors_enabled": false,
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Bedarfsgerechte und bezahlbare #webtoprint L\u00f6sungen f\u00fcr Ihr #print #ecommerce #business. Es twittert das Marketing der @bebeyond_de aus Willich am Niederrhein.",
+   "followers_count": 233,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "listed_count": 24,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "profile_background_color": "ECE8E7",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Willich, Nordrhein-Westfalen",
+   "url": "http://t.co/Du0wOndrn8",
+   "protected": false,
+   "lang": "de",
+   "time_zone": "Berlin",
+   "statuses_count": 1648,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "lead-print.com",
+       "url": "http://t.co/Du0wOndrn8",
+       "expanded_url": "http://www.lead-print.com",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "E98100",
+   "name": "Lead-Print",
+   "favourites_count": 70,
+   "id": 41112288,
+   "screen_name": "leadprint",
+   "id_str": "41112288",
+   "utc_offset": 7200,
+   "notifications": false,
+   "profile_sidebar_border_color": "000000",
+   "friends_count": 451,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/41112288/1438148133",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "leadprint",
+    "indices": [
+     84,
+     94
+    ]
+   },
+   {
+    "text": "weareleadprint",
+    "indices": [
+     109,
+     124
+    ]
+   },
+   {
+    "text": "sales",
+    "indices": [
+     125,
+     131
+    ]
+   },
+   {
+    "text": "w2p",
+    "indices": [
+     132,
+     136
+    ]
+   }
+  ],
+  "id_str": "631545293088116736",
+  "user_screen_name": "leadprint",
+  "favorite_count": 0,
+  "date": "2015-08-12 19:18:26",
+  "user_mentions": [],
+  "urls": [],
+  "lang": "de",
+  "text": "Bestandskundenpflege und Neukundenakquise zugleich? Geht nicht!\n\nGeht doch! Mit der #leadprint PRINT LOUNGE\n\n#weareleadprint #sales #w2p",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631886589552164864": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "ow.ly/QS1Yr",
+     "url": "http://t.co/g3iujAfrry",
+     "expanded_url": "http://ow.ly/QS1Yr",
+     "indices": [
+      80,
+      102
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      20,
+      30
+     ],
+     "name": "Pinterest",
+     "screen_name": "Pinterest",
+     "id": 106837463,
+     "id_str": "106837463"
+    }
+   ],
+   "hashtags": [
+    {
+     "text": "w2p",
+     "indices": [
+      103,
+      107
+     ]
+    },
+    {
+     "text": "SMCoP",
+     "indices": [
+      108,
+      114
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Thu Apr 28 20:54:44 +0000 2011",
+   "contributors_enabled": false,
+   "geo_enabled": false,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "GC Communicator | Social Media Strategist | Digital Photography Instructor | Online Afficionado | Opinions are my own",
+   "followers_count": 759,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/448272113204346880/d8qaBse9_normal.jpeg",
+   "listed_count": 80,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/448272113204346880/d8qaBse9_normal.jpeg",
+   "profile_background_color": "022330",
+   "verified": false,
+   "profile_background_tile": true,
+   "default_profile_image": false,
+   "location": "Ottawa, Ontario, Canada",
+   "url": "http://t.co/UoaMoKFgGM",
+   "protected": false,
+   "lang": "en",
+   "time_zone": "Quito",
+   "statuses_count": 5697,
+   "following": true,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/256095255/p0000000406.jpg",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "gesikowski.com",
+       "url": "http://t.co/UoaMoKFgGM",
+       "expanded_url": "http://www.gesikowski.com",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "0084B4",
+   "name": "Cezary Gesikowski",
+   "favourites_count": 3,
+   "id": 289544577,
+   "screen_name": "gesikowski",
+   "id_str": "289544577",
+   "utc_offset": -18000,
+   "notifications": false,
+   "profile_sidebar_border_color": "A8C7F7",
+   "friends_count": 834,
+   "profile_sidebar_fill_color": "C0DFEC",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/256095255/p0000000406.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/289544577/1398712455",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "w2p",
+    "indices": [
+     103,
+     107
+    ]
+   },
+   {
+    "text": "SMCoP",
+    "indices": [
+     108,
+     114
+    ]
+   }
+  ],
+  "id_str": "631886589552164864",
+  "user_screen_name": "gesikowski",
+  "favorite_count": 0,
+  "date": "2015-08-13 17:54:37",
+  "user_mentions": [
+   {
+    "indices": [
+     20,
+     30
+    ],
+    "name": "Pinterest",
+    "screen_name": "Pinterest",
+    "id": 106837463,
+    "id_str": "106837463"
+   }
+  ],
+  "urls": [
+   {
+    "display_url": "ow.ly/QS1Yr",
+    "url": "http://t.co/g3iujAfrry",
+    "expanded_url": "http://ow.ly/QS1Yr",
+    "indices": [
+     80,
+     102
+    ]
+   }
+  ],
+  "lang": "en",
+  "text": "See exact number of @Pinterest followers on desktop via quick step-by-step hack http://t.co/g3iujAfrry #w2p #SMCoP",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "630795910507851776": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "ow.ly/QIOzn",
+     "url": "http://t.co/VTkf7WSqMq",
+     "expanded_url": "http://ow.ly/QIOzn",
+     "indices": [
+      89,
+      111
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "w2p",
+     "indices": [
+      112,
+      116
+     ]
+    },
+    {
+     "text": "gcintra",
+     "indices": [
+      117,
+      125
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Fri Jun 05 17:18:52 +0000 2009",
+   "contributors_enabled": false,
+   "geo_enabled": false,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Web guy, content manager, Web marketer, UX advisor, UI designer, SEO, SEM, Social Media, etc. Je tweet en fran\u00e7ais et en anglais. C'est mon opinion.",
+   "followers_count": 749,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/477441348631412736/qaOUEeT0_normal.jpeg",
+   "listed_count": 100,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/477441348631412736/qaOUEeT0_normal.jpeg",
+   "profile_background_color": "C0DEED",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Ottawa",
+   "url": "http://t.co/aC5lmCzpqD",
+   "protected": false,
+   "lang": "en",
+   "time_zone": "Eastern Time (US & Canada)",
+   "statuses_count": 5789,
+   "following": true,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "gplus.to/JeromeFB",
+       "url": "http://t.co/aC5lmCzpqD",
+       "expanded_url": "http://gplus.to/JeromeFB",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "0084B4",
+   "name": "Jerome",
+   "favourites_count": 1,
+   "id": 44942748,
+   "screen_name": "jeromefb",
+   "id_str": "44942748",
+   "utc_offset": -14400,
+   "notifications": false,
+   "profile_sidebar_border_color": "FFFFFF",
+   "friends_count": 915,
+   "profile_sidebar_fill_color": "EFEFEF",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "w2p",
+    "indices": [
+     112,
+     116
+    ]
+   },
+   {
+    "text": "gcintra",
+    "indices": [
+     117,
+     125
+    ]
+   }
+  ],
+  "id_str": "630795910507851776",
+  "user_screen_name": "jeromefb",
+  "favorite_count": 1,
+  "date": "2015-08-10 17:40:39",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "ow.ly/QIOzn",
+    "url": "http://t.co/VTkf7WSqMq",
+    "expanded_url": "http://ow.ly/QIOzn",
+    "indices": [
+     89,
+     111
+    ]
+   }
+  ],
+  "lang": "en",
+  "text": "Do you have a Chief Employee Experience Officer (CEEO) leading your digital workplace? - http://t.co/VTkf7WSqMq #w2p #gcintra",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "630712110234906625": {
+  "retweet_count": 1,
+  "entities": {
+   "media": [
+    {
+     "expanded_url": "http://twitter.com/jsteutelings/status/629283683078418432/photo/1",
+     "source_user_id_str": "357711329",
+     "source_status_id": 629283683078418432,
+     "id": 629283682088390656,
+     "id_str": "629283682088390656",
+     "source_status_id_str": "629283683078418432",
+     "media_url_https": "https://pbs.twimg.com/media/CLuqLL3UEAAZTuQ.jpg",
+     "display_url": "pic.twitter.com/gp3ig7Ve3K",
+     "url": "http://t.co/gp3ig7Ve3K",
+     "sizes": {
+      "large": {
+       "resize": "fit",
+       "w": 600,
+       "h": 600
+      },
+      "medium": {
+       "resize": "fit",
+       "w": 600,
+       "h": 600
+      },
+      "small": {
+       "resize": "fit",
+       "w": 340,
+       "h": 340
+      },
+      "thumb": {
+       "resize": "crop",
+       "w": 150,
+       "h": 150
+      }
+     },
+     "source_user_id": 357711329,
+     "indices": [
+      139,
+      140
+     ],
+     "media_url": "http://pbs.twimg.com/media/CLuqLL3UEAAZTuQ.jpg",
+     "type": "photo"
+    }
+   ],
+   "symbols": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "indices": [
+      3,
+      16
+     ],
+     "name": "Jos Steutelings",
+     "screen_name": "jsteutelings",
+     "id": 357711329,
+     "id_str": "357711329"
+    },
+    {
+     "indices": [
+      95,
+      102
+     ],
+     "name": "VIGCbe",
+     "screen_name": "VIGCbe",
+     "id": 3163876210,
+     "id_str": "3163876210"
+    },
+    {
+     "indices": [
+      103,
+      117
+     ],
+     "name": "KONICA MINOLTA",
+     "screen_name": "konicaminolta",
+     "id": 211024996,
+     "id_str": "211024996"
+    }
+   ],
+   "hashtags": [
+    {
+     "text": "userexperience",
+     "indices": [
+      18,
+      33
+     ]
+    },
+    {
+     "text": "design",
+     "indices": [
+      34,
+      41
+     ]
+    },
+    {
+     "text": "w2p",
+     "indices": [
+      84,
+      88
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Mon Apr 13 11:52:24 +0000 2015",
+   "contributors_enabled": false,
+   "geo_enabled": false,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "",
+   "followers_count": 28,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/587928562642132992/N_O2PELM_normal.jpg",
+   "listed_count": 3,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/587928562642132992/N_O2PELM_normal.jpg",
+   "profile_background_color": "C0DEED",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "",
+   "url": null,
+   "protected": false,
+   "lang": "nl",
+   "time_zone": null,
+   "statuses_count": 44,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "0084B4",
+   "name": "VIGCbe",
+   "favourites_count": 8,
+   "id": 3163876210,
+   "screen_name": "VIGCbe",
+   "id_str": "3163876210",
+   "utc_offset": null,
+   "notifications": false,
+   "profile_sidebar_border_color": "C0DEED",
+   "friends_count": 58,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": true,
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3163876210/1438077663",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "userexperience",
+    "indices": [
+     18,
+     33
+    ]
+   },
+   {
+    "text": "design",
+    "indices": [
+     34,
+     41
+    ]
+   },
+   {
+    "text": "w2p",
+    "indices": [
+     84,
+     88
+    ]
+   }
+  ],
+  "id_str": "630712110234906625",
+  "user_screen_name": "VIGCbe",
+  "favorite_count": 0,
+  "date": "2015-08-10 12:07:39",
+  "user_mentions": [
+   {
+    "indices": [
+     3,
+     16
+    ],
+    "name": "Jos Steutelings",
+    "screen_name": "jsteutelings",
+    "id": 357711329,
+    "id_str": "357711329"
+   },
+   {
+    "indices": [
+     95,
+     102
+    ],
+    "name": "VIGCbe",
+    "screen_name": "VIGCbe",
+    "id": 3163876210,
+    "id_str": "3163876210"
+   },
+   {
+    "indices": [
+     103,
+     117
+    ],
+    "name": "KONICA MINOLTA",
+    "screen_name": "konicaminolta",
+    "id": 211024996,
+    "id_str": "211024996"
+   }
+  ],
+  "urls": [],
+  "lang": "en",
+  "text": "RT @jsteutelings: #userexperience #design are the topics that 'll dominate the next #w2p event @VIGCbe @konicaminolta December 2, 2015 http\u2026",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631439764529373184": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "tinyurl.com/psw6j6t",
+     "url": "http://t.co/rBxF4D8BcI",
+     "expanded_url": "http://tinyurl.com/psw6j6t",
+     "indices": [
+      97,
+      119
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "onlineshop",
+     "indices": [
+      120,
+      131
+     ]
+    },
+    {
+     "text": "w2p",
+     "indices": [
+      132,
+      136
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Tue May 19 13:14:19 +0000 2009",
+   "contributors_enabled": false,
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Bedarfsgerechte und bezahlbare #webtoprint L\u00f6sungen f\u00fcr Ihr #print #ecommerce #business. Es twittert das Marketing der @bebeyond_de aus Willich am Niederrhein.",
+   "followers_count": 233,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "listed_count": 24,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "profile_background_color": "ECE8E7",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Willich, Nordrhein-Westfalen",
+   "url": "http://t.co/Du0wOndrn8",
+   "protected": false,
+   "lang": "de",
+   "time_zone": "Berlin",
+   "statuses_count": 1648,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "lead-print.com",
+       "url": "http://t.co/Du0wOndrn8",
+       "expanded_url": "http://www.lead-print.com",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "E98100",
+   "name": "Lead-Print",
+   "favourites_count": 70,
+   "id": 41112288,
+   "screen_name": "leadprint",
+   "id_str": "41112288",
+   "utc_offset": 7200,
+   "notifications": false,
+   "profile_sidebar_border_color": "000000",
+   "friends_count": 451,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/41112288/1438148133",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "onlineshop",
+    "indices": [
+     120,
+     131
+    ]
+   },
+   {
+    "text": "w2p",
+    "indices": [
+     132,
+     136
+    ]
+   }
+  ],
+  "id_str": "631439764529373184",
+  "user_screen_name": "leadprint",
+  "favorite_count": 0,
+  "date": "2015-08-12 12:19:06",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "tinyurl.com/psw6j6t",
+    "url": "http://t.co/rBxF4D8BcI",
+    "expanded_url": "http://tinyurl.com/psw6j6t",
+    "indices": [
+     97,
+     119
+    ]
+   }
+  ],
+  "lang": "de",
+  "text": "Niederl\u00e4ndische Beh\u00f6rde droht mit hohen Bu\u00dfgeldern in Sachen Widerrufsrecht: Mit zwangsgeldbe... http://t.co/rBxF4D8BcI #onlineshop #w2p",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631384606936137728": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "bit.ly/1ToK7Bi",
+     "url": "http://t.co/ZfL9eQZsUH",
+     "expanded_url": "http://bit.ly/1ToK7Bi",
+     "indices": [
+      97,
+      119
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "onlineshop",
+     "indices": [
+      120,
+      131
+     ]
+    },
+    {
+     "text": "w2p",
+     "indices": [
+      132,
+      136
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Tue May 19 13:14:19 +0000 2009",
+   "contributors_enabled": false,
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Bedarfsgerechte und bezahlbare #webtoprint L\u00f6sungen f\u00fcr Ihr #print #ecommerce #business. Es twittert das Marketing der @bebeyond_de aus Willich am Niederrhein.",
+   "followers_count": 233,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "listed_count": 24,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "profile_background_color": "ECE8E7",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Willich, Nordrhein-Westfalen",
+   "url": "http://t.co/Du0wOndrn8",
+   "protected": false,
+   "lang": "de",
+   "time_zone": "Berlin",
+   "statuses_count": 1648,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "lead-print.com",
+       "url": "http://t.co/Du0wOndrn8",
+       "expanded_url": "http://www.lead-print.com",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "E98100",
+   "name": "Lead-Print",
+   "favourites_count": 70,
+   "id": 41112288,
+   "screen_name": "leadprint",
+   "id_str": "41112288",
+   "utc_offset": 7200,
+   "notifications": false,
+   "profile_sidebar_border_color": "000000",
+   "friends_count": 451,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/41112288/1438148133",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "onlineshop",
+    "indices": [
+     120,
+     131
+    ]
+   },
+   {
+    "text": "w2p",
+    "indices": [
+     132,
+     136
+    ]
+   }
+  ],
+  "id_str": "631384606936137728",
+  "user_screen_name": "leadprint",
+  "favorite_count": 0,
+  "date": "2015-08-12 08:39:55",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "bit.ly/1ToK7Bi",
+    "url": "http://t.co/ZfL9eQZsUH",
+    "expanded_url": "http://bit.ly/1ToK7Bi",
+    "indices": [
+     97,
+     119
+    ]
+   }
+  ],
+  "lang": "de",
+  "text": "Wein-H\u00e4ndler m\u00fcssen immer auf Sulfite hinweisen!: Nach der Lebensmittel-Informations-Verordnu... http://t.co/ZfL9eQZsUH #onlineshop #w2p",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631468027163217920": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "propago.com/graphexpo2015",
+     "url": "http://t.co/Tep4hqsCgT",
+     "expanded_url": "http://propago.com/graphexpo2015",
+     "indices": [
+      97,
+      119
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      0,
+      11
+     ],
+     "name": "GRAPH EXPO",
+     "screen_name": "GRAPH_EXPO",
+     "id": 70717092,
+     "id_str": "70717092"
+    },
+    {
+     "indices": [
+      35,
+      51
+     ],
+     "name": "Propago",
+     "screen_name": "propagoplatform",
+     "id": 3252030247,
+     "id_str": "3252030247"
+    }
+   ],
+   "hashtags": [
+    {
+     "text": "W2P",
+     "indices": [
+      120,
+      124
+     ]
+    },
+    {
+     "text": "B2B",
+     "indices": [
+      125,
+      129
+     ]
+    },
+    {
+     "text": "GraphExpo",
+     "indices": [
+      130,
+      140
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Sun Jun 21 19:51:07 +0000 2015",
+   "contributors_enabled": false,
+   "geo_enabled": false,
+   "profile_use_background_image": false,
+   "follow_request_sent": false,
+   "description": "A holistic Marketing Management Platform that allows you to streamline ordering, production, fulfillment and distribution of all your marketing assets.",
+   "followers_count": 128,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/613076573227343872/C5FtKUE9_normal.jpg",
+   "listed_count": 6,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/613076573227343872/C5FtKUE9_normal.jpg",
+   "profile_background_color": "000000",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Austin, TX",
+   "url": "http://t.co/5UQWNq53T8",
+   "protected": false,
+   "lang": "en",
+   "time_zone": "Central Time (US & Canada)",
+   "statuses_count": 22,
+   "following": false,
+   "profile_text_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "propago.com",
+       "url": "http://t.co/5UQWNq53T8",
+       "expanded_url": "http://www.propago.com",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "228891",
+   "name": "Propago",
+   "favourites_count": 3,
+   "id": 3252030247,
+   "screen_name": "propagoplatform",
+   "id_str": "3252030247",
+   "utc_offset": -18000,
+   "notifications": false,
+   "profile_sidebar_border_color": "000000",
+   "friends_count": 383,
+   "profile_sidebar_fill_color": "000000",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3252030247/1435085218",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "W2P",
+    "indices": [
+     120,
+     124
+    ]
+   },
+   {
+    "text": "B2B",
+    "indices": [
+     125,
+     129
+    ]
+   },
+   {
+    "text": "GraphExpo",
+    "indices": [
+     130,
+     140
+    ]
+   }
+  ],
+  "id_str": "631468027163217920",
+  "user_screen_name": "propagoplatform",
+  "favorite_count": 4,
+  "date": "2015-08-12 14:11:24",
+  "user_mentions": [
+   {
+    "indices": [
+     0,
+     11
+    ],
+    "name": "GRAPH EXPO",
+    "screen_name": "GRAPH_EXPO",
+    "id": 70717092,
+    "id_str": "70717092"
+   },
+   {
+    "indices": [
+     35,
+     51
+    ],
+    "name": "Propago",
+    "screen_name": "propagoplatform",
+    "id": 3252030247,
+    "id_str": "3252030247"
+   }
+  ],
+  "urls": [
+   {
+    "display_url": "propago.com/graphexpo2015",
+    "url": "http://t.co/Tep4hqsCgT",
+    "expanded_url": "http://propago.com/graphexpo2015",
+    "indices": [
+     97,
+     119
+    ]
+   }
+  ],
+  "lang": "en",
+  "text": "@GRAPH_EXPO, Buckle in for a ride! @propagoplatform is coming to shake some things up! Check out http://t.co/Tep4hqsCgT #W2P #B2B #GraphExpo",
+  "coordinates": null,
+  "reply_to": "GRAPH_EXPO",
+  "quoted_status": false
+ },
+ "631435058369417218": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "webshopdrukkerij.nl",
+     "url": "http://t.co/dYuookJXfV",
+     "expanded_url": "http://www.webshopdrukkerij.nl",
+     "indices": [
+      26,
+      48
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "W2P",
+     "indices": [
+      118,
+      122
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Tue Apr 06 12:20:44 +0000 2010",
+   "contributors_enabled": false,
+   "geo_enabled": false,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Prindustry verbindt grafische bedrijven online | #welovetoconnect | Specialist in grafische IT | 100 drukkerijen & printshops als klant | WhiteLabelShop",
+   "followers_count": 807,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345109335/Prindustry-logo-7459-FC_normal.png",
+   "listed_count": 15,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1345109335/Prindustry-logo-7459-FC_normal.png",
+   "profile_background_color": "C0DEED",
+   "verified": false,
+   "profile_background_tile": true,
+   "default_profile_image": false,
+   "location": "Amsterdam",
+   "url": "http://t.co/VpXPX7atGM",
+   "protected": false,
+   "lang": "nl",
+   "time_zone": "Amsterdam",
+   "statuses_count": 312,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/333852697/Prindustry-logo-7459-FC.png",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "prindustry.nl",
+       "url": "http://t.co/VpXPX7atGM",
+       "expanded_url": "http://www.prindustry.nl",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "0084B4",
+   "name": "Prindustry",
+   "favourites_count": 37,
+   "id": 130135777,
+   "screen_name": "Prindustry",
+   "id_str": "130135777",
+   "utc_offset": 7200,
+   "notifications": false,
+   "profile_sidebar_border_color": "C0DEED",
+   "friends_count": 797,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/333852697/Prindustry-logo-7459-FC.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/130135777/1432795730",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "W2P",
+    "indices": [
+     118,
+     122
+    ]
+   }
+  ],
+  "id_str": "631435058369417218",
+  "user_screen_name": "Prindustry",
+  "favorite_count": 1,
+  "date": "2015-08-12 12:00:24",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "webshopdrukkerij.nl",
+    "url": "http://t.co/dYuookJXfV",
+    "expanded_url": "http://www.webshopdrukkerij.nl",
+    "indices": [
+     26,
+     48
+    ]
+   }
+  ],
+  "lang": "nl",
+  "text": "Heb je al eens gesurft op http://t.co/dYuookJXfV? Dan vast nog niet in de backend! Graag geef ik je een demo van onze #W2P software ^TM",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631710286878273537": {
+  "retweet_count": 0,
+  "entities": {
+   "media": [
+    {
+     "type": "photo",
+     "expanded_url": "http://twitter.com/Cevagrafdigital/status/631710286878273537/photo/1",
+     "media_url_https": "https://pbs.twimg.com/media/CMRJKKwWgAAnVjQ.jpg",
+     "display_url": "pic.twitter.com/vZBerw8LMp",
+     "url": "http://t.co/vZBerw8LMp",
+     "sizes": {
+      "medium": {
+       "resize": "fit",
+       "w": 600,
+       "h": 388
+      },
+      "large": {
+       "resize": "fit",
+       "w": 625,
+       "h": 405
+      },
+      "small": {
+       "resize": "fit",
+       "w": 340,
+       "h": 220
+      },
+      "thumb": {
+       "resize": "crop",
+       "w": 150,
+       "h": 150
+      }
+     },
+     "id": 631710286773387264,
+     "id_str": "631710286773387264",
+     "media_url": "http://pbs.twimg.com/media/CMRJKKwWgAAnVjQ.jpg",
+     "indices": [
+      100,
+      122
+     ]
+    }
+   ],
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "buff.ly/1U1QAPr",
+     "url": "http://t.co/EVyyS9KAVA",
+     "expanded_url": "http://buff.ly/1U1QAPr",
+     "indices": [
+      44,
+      66
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "hpindigo",
+     "indices": [
+      68,
+      77
+     ]
+    },
+    {
+     "text": "imprenta",
+     "indices": [
+      78,
+      87
+     ]
+    },
+    {
+     "text": "w2p",
+     "indices": [
+      88,
+      92
+     ]
+    },
+    {
+     "text": "print",
+     "indices": [
+      93,
+      99
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Wed Jun 18 13:38:42 +0000 2014",
+   "contributors_enabled": false,
+   "geo_enabled": false,
+   "profile_use_background_image": false,
+   "follow_request_sent": false,
+   "description": "Somos la imprenta digital para los profesionales del dise\u00f1o y la comunicaci\u00f3n, y formamos parte de @cevagraf - Cooperativa d'Arts Gr\u00e0fiques.",
+   "followers_count": 505,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/479263098516152320/qDoIbhof_normal.png",
+   "listed_count": 20,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/479263098516152320/qDoIbhof_normal.png",
+   "profile_background_color": "E24182",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Barcelona",
+   "url": "http://t.co/lR9iQVZ0xy",
+   "protected": false,
+   "lang": "es",
+   "time_zone": "Madrid",
+   "statuses_count": 830,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "imprenta-digital-online.com/blog",
+       "url": "http://t.co/lR9iQVZ0xy",
+       "expanded_url": "http://www.imprenta-digital-online.com/blog",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "B80B81",
+   "name": "Cevagraf digital",
+   "favourites_count": 1058,
+   "id": 2574858282,
+   "screen_name": "Cevagrafdigital",
+   "id_str": "2574858282",
+   "utc_offset": 7200,
+   "notifications": false,
+   "profile_sidebar_border_color": "FFFFFF",
+   "friends_count": 374,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2574858282/1411021175",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "hpindigo",
+    "indices": [
+     68,
+     77
+    ]
+   },
+   {
+    "text": "imprenta",
+    "indices": [
+     78,
+     87
+    ]
+   },
+   {
+    "text": "w2p",
+    "indices": [
+     88,
+     92
+    ]
+   },
+   {
+    "text": "print",
+    "indices": [
+     93,
+     99
+    ]
+   }
+  ],
+  "id_str": "631710286878273537",
+  "user_screen_name": "Cevagrafdigital",
+  "favorite_count": 0,
+  "date": "2015-08-13 06:14:03",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "buff.ly/1U1QAPr",
+    "url": "http://t.co/EVyyS9KAVA",
+    "expanded_url": "http://buff.ly/1U1QAPr",
+    "indices": [
+     44,
+     66
+    ]
+   }
+  ],
+  "lang": "es",
+  "text": "Impresi\u00f3n metalizada: \u00bfQu\u00e9 opci\u00f3n es mejor? http://t.co/EVyyS9KAVA  #hpindigo #imprenta #w2p #print http://t.co/vZBerw8LMp",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631840351918129152": {
+  "retweet_count": 3,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "gov.uk/design-princip\u2026",
+     "url": "https://t.co/is0ViNsNjh",
+     "expanded_url": "https://www.gov.uk/design-principles#fourth",
+     "indices": [
+      85,
+      108
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      113,
+      121
+     ],
+     "name": "GDS",
+     "screen_name": "gdsteam",
+     "id": 268349503,
+     "id_str": "268349503"
+    }
+   ],
+   "hashtags": [
+    {
+     "text": "w2p",
+     "indices": [
+      122,
+      126
+     ]
+    },
+    {
+     "text": "gov",
+     "indices": [
+      127,
+      131
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Sat Dec 20 16:23:18 +0000 2008",
+   "contributors_enabled": false,
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "President OpenConcept Consulting - Drupal 8 Core Accessibility Maintainer - Free Software Advocate - Father - Feminist - Quaker - Prolific Photographer",
+   "followers_count": 5105,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/621016626763206656/1zVReIho_normal.jpg",
+   "listed_count": 494,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/621016626763206656/1zVReIho_normal.jpg",
+   "profile_background_color": "0099B9",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Ottawa, ON, Canada",
+   "url": "http://t.co/QRqSm9Lt0H",
+   "protected": false,
+   "lang": "en",
+   "time_zone": "America/Toronto",
+   "statuses_count": 27071,
+   "following": true,
+   "profile_text_color": "3C3940",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4012692/bg_oc_twitter.png",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "openconcept.ca",
+       "url": "http://t.co/QRqSm9Lt0H",
+       "expanded_url": "http://openconcept.ca/",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "0099B9",
+   "name": "Mike Gifford",
+   "favourites_count": 1434,
+   "id": 18268293,
+   "screen_name": "mgifford",
+   "id_str": "18268293",
+   "utc_offset": -14400,
+   "notifications": false,
+   "profile_sidebar_border_color": "5ED4DC",
+   "friends_count": 5608,
+   "profile_sidebar_fill_color": "95E8EC",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4012692/bg_oc_twitter.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/18268293/1436896895",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "w2p",
+    "indices": [
+     122,
+     126
+    ]
+   },
+   {
+    "text": "gov",
+    "indices": [
+     127,
+     131
+    ]
+   }
+  ],
+  "id_str": "631840351918129152",
+  "user_screen_name": "mgifford",
+  "favorite_count": 0,
+  "date": "2015-08-13 14:50:53",
+  "user_mentions": [
+   {
+    "indices": [
+     113,
+     121
+    ],
+    "name": "GDS",
+    "screen_name": "gdsteam",
+    "id": 268349503,
+    "id_str": "268349503"
+   }
+  ],
+  "urls": [
+   {
+    "display_url": "gov.uk/design-princip\u2026",
+    "url": "https://t.co/is0ViNsNjh",
+    "expanded_url": "https://www.gov.uk/design-principles#fourth",
+    "indices": [
+     85,
+     108
+    ]
+   }
+  ],
+  "lang": "en",
+  "text": "Government Digital Service - Design Principles 4) Do the hard work to make it simple https://t.co/is0ViNsNjh via @gdsteam #w2p #gov",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "630629332969463808": {
+  "retweet_count": 1,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "lead-print.com/de/schulungsan\u2026",
+     "url": "http://t.co/mKFtvSadSN",
+     "expanded_url": "http://www.lead-print.com/de/schulungsangebote.php",
+     "indices": [
+      111,
+      133
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "leadprint",
+     "indices": [
+      77,
+      87
+     ]
+    },
+    {
+     "text": "w2p",
+     "indices": [
+      134,
+      138
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Tue May 19 13:14:19 +0000 2009",
+   "contributors_enabled": false,
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Bedarfsgerechte und bezahlbare #webtoprint L\u00f6sungen f\u00fcr Ihr #print #ecommerce #business. Es twittert das Marketing der @bebeyond_de aus Willich am Niederrhein.",
+   "followers_count": 233,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "listed_count": 24,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "profile_background_color": "ECE8E7",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Willich, Nordrhein-Westfalen",
+   "url": "http://t.co/Du0wOndrn8",
+   "protected": false,
+   "lang": "de",
+   "time_zone": "Berlin",
+   "statuses_count": 1648,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "lead-print.com",
+       "url": "http://t.co/Du0wOndrn8",
+       "expanded_url": "http://www.lead-print.com",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "E98100",
+   "name": "Lead-Print",
+   "favourites_count": 70,
+   "id": 41112288,
+   "screen_name": "leadprint",
+   "id_str": "41112288",
+   "utc_offset": 7200,
+   "notifications": false,
+   "profile_sidebar_border_color": "000000",
+   "friends_count": 451,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/41112288/1438148133",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "leadprint",
+    "indices": [
+     77,
+     87
+    ]
+   },
+   {
+    "text": "w2p",
+    "indices": [
+     134,
+     138
+    ]
+   }
+  ],
+  "id_str": "630629332969463808",
+  "user_screen_name": "leadprint",
+  "favorite_count": 1,
+  "date": "2015-08-10 06:38:44",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "lead-print.com/de/schulungsan\u2026",
+    "url": "http://t.co/mKFtvSadSN",
+    "expanded_url": "http://www.lead-print.com/de/schulungsangebote.php",
+    "indices": [
+     111,
+     133
+    ]
+   }
+  ],
+  "lang": "de",
+  "text": "Bleiben Sie auf dem neusten Stand. Zahlreiche neue Funktionen jeden Monat in #leadprint Produkten. Schulungen: http://t.co/mKFtvSadSN\n#w2p",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631819538053509124": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "tinyurl.com/qbu64co",
+     "url": "http://t.co/zOJxFHiHsj",
+     "expanded_url": "http://tinyurl.com/qbu64co",
+     "indices": [
+      97,
+      119
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "onlineshop",
+     "indices": [
+      120,
+      131
+     ]
+    },
+    {
+     "text": "w2p",
+     "indices": [
+      132,
+      136
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Tue May 19 13:14:19 +0000 2009",
+   "contributors_enabled": false,
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Bedarfsgerechte und bezahlbare #webtoprint L\u00f6sungen f\u00fcr Ihr #print #ecommerce #business. Es twittert das Marketing der @bebeyond_de aus Willich am Niederrhein.",
+   "followers_count": 233,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "listed_count": 24,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "profile_background_color": "ECE8E7",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Willich, Nordrhein-Westfalen",
+   "url": "http://t.co/Du0wOndrn8",
+   "protected": false,
+   "lang": "de",
+   "time_zone": "Berlin",
+   "statuses_count": 1648,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "lead-print.com",
+       "url": "http://t.co/Du0wOndrn8",
+       "expanded_url": "http://www.lead-print.com",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "E98100",
+   "name": "Lead-Print",
+   "favourites_count": 70,
+   "id": 41112288,
+   "screen_name": "leadprint",
+   "id_str": "41112288",
+   "utc_offset": 7200,
+   "notifications": false,
+   "profile_sidebar_border_color": "000000",
+   "friends_count": 451,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/41112288/1438148133",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "onlineshop",
+    "indices": [
+     120,
+     131
+    ]
+   },
+   {
+    "text": "w2p",
+    "indices": [
+     132,
+     136
+    ]
+   }
+  ],
+  "id_str": "631819538053509124",
+  "user_screen_name": "leadprint",
+  "favorite_count": 0,
+  "date": "2015-08-13 13:28:11",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "tinyurl.com/qbu64co",
+    "url": "http://t.co/zOJxFHiHsj",
+    "expanded_url": "http://tinyurl.com/qbu64co",
+    "indices": [
+     97,
+     119
+    ]
+   }
+  ],
+  "lang": "de",
+  "text": "Save the date: Rechtssicher ins Weihnachtsgesch\u00e4ft starten: Noch ist sch\u00f6nster Hochsommer, ab... http://t.co/zOJxFHiHsj #onlineshop #w2p",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631504263450087429": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "picturepark.com/dam-connectors\u2026",
+     "url": "https://t.co/0FYdndT73q",
+     "expanded_url": "https://picturepark.com/dam-connectors/customer-developed-picturepark-integrations/",
+     "indices": [
+      106,
+      129
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      90,
+      99
+     ],
+     "name": "Pete Granado",
+     "screen_name": "2imagine",
+     "id": 21294206,
+     "id_str": "21294206"
+    }
+   ],
+   "hashtags": [
+    {
+     "text": "DigitalAssetManagement",
+     "indices": [
+      52,
+      75
+     ]
+    },
+    {
+     "text": "w2p",
+     "indices": [
+      100,
+      104
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Mon May 18 09:20:31 +0000 2009",
+   "contributors_enabled": false,
+   "geo_enabled": false,
+   "profile_use_background_image": false,
+   "follow_request_sent": false,
+   "description": "Content-focused Digital Asset Management that features Adaptive #Metadata schemas. 5-star DAM eBooks available without signup: http://t.co/Y6YSSzGoOH #LearnDAM",
+   "followers_count": 4371,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000489568748/a8077adc2359ec67b6875298b5b77e64_normal.png",
+   "listed_count": 102,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000489568748/a8077adc2359ec67b6875298b5b77e64_normal.png",
+   "profile_background_color": "FFFFFF",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Switzerland / USA / Austria",
+   "url": "http://t.co/RZ32OMtt7i",
+   "protected": false,
+   "lang": "en",
+   "time_zone": "Pacific Time (US & Canada)",
+   "statuses_count": 11710,
+   "following": false,
+   "profile_text_color": "000000",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/658646709/hgcmgmc340x4lhnqvu54.jpeg",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "picturepark.com",
+       "url": "http://t.co/RZ32OMtt7i",
+       "expanded_url": "http://picturepark.com",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": [
+      {
+       "display_url": "picturepark.com/eBooks",
+       "url": "http://t.co/Y6YSSzGoOH",
+       "expanded_url": "http://picturepark.com/eBooks",
+       "indices": [
+        127,
+        149
+       ]
+      }
+     ]
+    }
+   },
+   "profile_link_color": "5A7C86",
+   "name": "Picturepark",
+   "favourites_count": 19,
+   "id": 40843218,
+   "screen_name": "Picturepark",
+   "id_str": "40843218",
+   "utc_offset": -25200,
+   "notifications": false,
+   "profile_sidebar_border_color": "FFFFFF",
+   "friends_count": 3400,
+   "profile_sidebar_fill_color": "ECEDED",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/658646709/hgcmgmc340x4lhnqvu54.jpeg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/40843218/1400216399",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "DigitalAssetManagement",
+    "indices": [
+     52,
+     75
+    ]
+   },
+   {
+    "text": "w2p",
+    "indices": [
+     100,
+     104
+    ]
+   }
+  ],
+  "id_str": "631504263450087429",
+  "user_screen_name": "Picturepark",
+  "favorite_count": 0,
+  "date": "2015-08-12 16:35:23",
+  "user_mentions": [
+   {
+    "indices": [
+     90,
+     99
+    ],
+    "name": "Pete Granado",
+    "screen_name": "2imagine",
+    "id": 21294206,
+    "id_str": "21294206"
+   }
+  ],
+  "urls": [
+   {
+    "display_url": "picturepark.com/dam-connectors\u2026",
+    "url": "https://t.co/0FYdndT73q",
+    "expanded_url": "https://picturepark.com/dam-connectors/customer-developed-picturepark-integrations/",
+    "indices": [
+     106,
+     129
+    ]
+   }
+  ],
+  "lang": "en",
+  "text": "Customer-developed Picturepark Integrations include #DigitalAssetManagement connector for @2imagine #w2p: https://t.co/0FYdndT73q",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "630674328703496193": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "tinyurl.com/p9wyj9z",
+     "url": "http://t.co/y0zjeaRVYU",
+     "expanded_url": "http://tinyurl.com/p9wyj9z",
+     "indices": [
+      97,
+      119
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "onlineshop",
+     "indices": [
+      120,
+      131
+     ]
+    },
+    {
+     "text": "w2p",
+     "indices": [
+      132,
+      136
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Tue May 19 13:14:19 +0000 2009",
+   "contributors_enabled": false,
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Bedarfsgerechte und bezahlbare #webtoprint L\u00f6sungen f\u00fcr Ihr #print #ecommerce #business. Es twittert das Marketing der @bebeyond_de aus Willich am Niederrhein.",
+   "followers_count": 233,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "listed_count": 24,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "profile_background_color": "ECE8E7",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Willich, Nordrhein-Westfalen",
+   "url": "http://t.co/Du0wOndrn8",
+   "protected": false,
+   "lang": "de",
+   "time_zone": "Berlin",
+   "statuses_count": 1648,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "lead-print.com",
+       "url": "http://t.co/Du0wOndrn8",
+       "expanded_url": "http://www.lead-print.com",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "E98100",
+   "name": "Lead-Print",
+   "favourites_count": 70,
+   "id": 41112288,
+   "screen_name": "leadprint",
+   "id_str": "41112288",
+   "utc_offset": 7200,
+   "notifications": false,
+   "profile_sidebar_border_color": "000000",
+   "friends_count": 451,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/41112288/1438148133",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "onlineshop",
+    "indices": [
+     120,
+     131
+    ]
+   },
+   {
+    "text": "w2p",
+    "indices": [
+     132,
+     136
+    ]
+   }
+  ],
+  "id_str": "630674328703496193",
+  "user_screen_name": "leadprint",
+  "favorite_count": 0,
+  "date": "2015-08-10 09:37:31",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "tinyurl.com/p9wyj9z",
+    "url": "http://t.co/y0zjeaRVYU",
+    "expanded_url": "http://tinyurl.com/p9wyj9z",
+    "indices": [
+     97,
+     119
+    ]
+   }
+  ],
+  "lang": "de",
+  "text": "Die internationalen Handb\u00fccher im \u00dcberblick: Viele von Ihnen kennen das Handbuch f\u00fcr Online-H... http://t.co/y0zjeaRVYU #onlineshop #w2p",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "633267157363589120": {
+  "retweet_count": 1,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "hilltimes.com/news/news/2015\u2026",
+     "url": "http://t.co/teBkGTXA3C",
+     "expanded_url": "http://www.hilltimes.com/news/news/2015/08/17/candidates-social-media-history-adds-new-dimension-to-vetting/43086?mcl=&muid=",
+     "indices": [
+      103,
+      125
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "w2p",
+     "indices": [
+      126,
+      130
+     ]
+    },
+    {
+     "text": "cndpoli",
+     "indices": [
+      131,
+      139
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Fri Nov 28 18:13:33 +0000 2008",
+   "contributors_enabled": false,
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Public Servant, blogger, speaker, digital citizen, father, and husband. Interested in the confluence of people, public policy and technology.",
+   "followers_count": 4509,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/597772070357966848/uuhVeM-B_normal.jpg",
+   "listed_count": 567,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/597772070357966848/uuhVeM-B_normal.jpg",
+   "profile_background_color": "FFFFFF",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Ottawa, Ontario",
+   "url": "http://t.co/28AGdGmeoq",
+   "protected": false,
+   "lang": "en",
+   "time_zone": "Central Time (US & Canada)",
+   "statuses_count": 29039,
+   "following": true,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/833711171/31f9aaa3a6863dfd855f8fb2a04b5be0.jpeg",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "cpsrenewal.ca",
+       "url": "http://t.co/28AGdGmeoq",
+       "expanded_url": "http://cpsrenewal.ca",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "E00B0B",
+   "name": "Nicholas Charney",
+   "favourites_count": 13,
+   "id": 17714903,
+   "screen_name": "nickcharney",
+   "id_str": "17714903",
+   "utc_offset": -18000,
+   "notifications": false,
+   "profile_sidebar_border_color": "FFFFFF",
+   "friends_count": 980,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/833711171/31f9aaa3a6863dfd855f8fb2a04b5be0.jpeg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/17714903/1398692749",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "w2p",
+    "indices": [
+     126,
+     130
+    ]
+   },
+   {
+    "text": "cndpoli",
+    "indices": [
+     131,
+     139
+    ]
+   }
+  ],
+  "id_str": "633267157363589120",
+  "user_screen_name": "nickcharney",
+  "favorite_count": 0,
+  "date": "2015-08-17 13:20:30",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "hilltimes.com/news/news/2015\u2026",
+    "url": "http://t.co/teBkGTXA3C",
+    "expanded_url": "http://www.hilltimes.com/news/news/2015/08/17/candidates-social-media-history-adds-new-dimension-to-vetting/43086?mcl=&muid=",
+    "indices": [
+     103,
+     125
+    ]
+   }
+  ],
+  "lang": "en",
+  "text": "Maybe the sol'n is less faux-outrage. \"Candidates\u2019 social media history adds new dimension to vetting\" http://t.co/teBkGTXA3C #w2p #cndpoli",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "633268707163283456": {
+  "retweet_count": 1,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "hilltimes.com/news/news/2015\u2026",
+     "url": "http://t.co/teBkGTXA3C",
+     "expanded_url": "http://www.hilltimes.com/news/news/2015/08/17/candidates-social-media-history-adds-new-dimension-to-vetting/43086?mcl=&muid=",
+     "indices": [
+      120,
+      140
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      3,
+      15
+     ],
+     "name": "Nicholas Charney",
+     "screen_name": "nickcharney",
+     "id": 17714903,
+     "id_str": "17714903"
+    }
+   ],
+   "hashtags": [
+    {
+     "text": "w2p",
+     "indices": [
+      139,
+      140
+     ]
+    },
+    {
+     "text": "cndpoli",
+     "indices": [
+      139,
+      140
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Thu Jan 26 15:21:53 +0000 2012",
+   "contributors_enabled": false,
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "I'm working on Open Government for the Government of Canada. Also in the throes of an MSc in environmental economics. Other stuff.",
+   "followers_count": 1364,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000338941018/cc4ebd601dc8548dee3e0c9493d48b71_normal.jpeg",
+   "listed_count": 81,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000338941018/cc4ebd601dc8548dee3e0c9493d48b71_normal.jpeg",
+   "profile_background_color": "709397",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Ottawa",
+   "url": "http://t.co/RLjAT1xDlk",
+   "protected": false,
+   "lang": "en",
+   "time_zone": null,
+   "statuses_count": 7736,
+   "following": true,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "cpsrenewal.ca",
+       "url": "http://t.co/RLjAT1xDlk",
+       "expanded_url": "http://www.cpsrenewal.ca/",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "FF3300",
+   "name": "Kent Aitken",
+   "favourites_count": 43,
+   "id": 474986411,
+   "screen_name": "kentdaitken",
+   "id_str": "474986411",
+   "utc_offset": null,
+   "notifications": false,
+   "profile_sidebar_border_color": "86A4A6",
+   "friends_count": 1227,
+   "profile_sidebar_fill_color": "A0C5C7",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/474986411/1430771664",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "w2p",
+    "indices": [
+     139,
+     140
+    ]
+   },
+   {
+    "text": "cndpoli",
+    "indices": [
+     139,
+     140
+    ]
+   }
+  ],
+  "id_str": "633268707163283456",
+  "user_screen_name": "kentdaitken",
+  "favorite_count": 0,
+  "date": "2015-08-17 13:26:40",
+  "user_mentions": [
+   {
+    "indices": [
+     3,
+     15
+    ],
+    "name": "Nicholas Charney",
+    "screen_name": "nickcharney",
+    "id": 17714903,
+    "id_str": "17714903"
+   }
+  ],
+  "urls": [
+   {
+    "display_url": "hilltimes.com/news/news/2015\u2026",
+    "url": "http://t.co/teBkGTXA3C",
+    "expanded_url": "http://www.hilltimes.com/news/news/2015/08/17/candidates-social-media-history-adds-new-dimension-to-vetting/43086?mcl=&muid=",
+    "indices": [
+     120,
+     140
+    ]
+   }
+  ],
+  "lang": "en",
+  "text": "RT @nickcharney: Maybe the sol'n is less faux-outrage. \"Candidates\u2019 social media history adds new dimension to vetting\" http://t.co/teBkGTX\u2026",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631437878162100224": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "webshopdrukkerij.nl",
+     "url": "http://t.co/O9Txa5PVHz",
+     "expanded_url": "http://www.webshopdrukkerij.nl",
+     "indices": [
+      3,
+      25
+     ]
+    },
+    {
+     "display_url": "lnkd.in/ea7qP_G",
+     "url": "https://t.co/f0OWora6IH",
+     "expanded_url": "https://lnkd.in/ea7qP_G",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "W2P",
+     "indices": [
+      58,
+      62
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Tue Mar 04 12:22:41 +0000 2008",
+   "contributors_enabled": false,
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Tine Leadmachine en IT meisje | Marketing Manager @prindustry | becoming Sportyspice | Puber Moeder | Next Generation Marketeer thnx2 @Lectric | 06 34 088 945",
+   "followers_count": 1256,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/603815014034710528/hmSTWETP_normal.jpg",
+   "listed_count": 46,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/603815014034710528/hmSTWETP_normal.jpg",
+   "profile_background_color": "C0DEED",
+   "verified": false,
+   "profile_background_tile": true,
+   "default_profile_image": false,
+   "location": "Amsterdam e.o.",
+   "url": "http://t.co/F1V68oFcF2",
+   "protected": false,
+   "lang": "nl",
+   "time_zone": "Amsterdam",
+   "statuses_count": 12261,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/280767273/twilk_background_4e0c24548b6ee.jpg",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "nl.linkedin.com/in/tinevanderm\u2026",
+       "url": "http://t.co/F1V68oFcF2",
+       "expanded_url": "http://nl.linkedin.com/in/tinevandermeij",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "89C9FA",
+   "name": "Tine van der Meij",
+   "favourites_count": 180,
+   "id": 14077580,
+   "screen_name": "meijt",
+   "id_str": "14077580",
+   "utc_offset": 7200,
+   "notifications": false,
+   "profile_sidebar_border_color": "C0DEED",
+   "friends_count": 1529,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/280767273/twilk_background_4e0c24548b6ee.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/14077580/1432795692",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "W2P",
+    "indices": [
+     58,
+     62
+    ]
+   }
+  ],
+  "id_str": "631437878162100224",
+  "user_screen_name": "meijt",
+  "favorite_count": 1,
+  "date": "2015-08-12 12:11:36",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "webshopdrukkerij.nl",
+    "url": "http://t.co/O9Txa5PVHz",
+    "expanded_url": "http://www.webshopdrukkerij.nl",
+    "indices": [
+     3,
+     25
+    ]
+   },
+   {
+    "display_url": "lnkd.in/ea7qP_G",
+    "url": "https://t.co/f0OWora6IH",
+    "expanded_url": "https://lnkd.in/ea7qP_G",
+    "indices": [
+     116,
+     139
+    ]
+   }
+  ],
+  "lang": "nl",
+  "text": "Op http://t.co/O9Txa5PVHz surf je in de Frontend van onze #W2P software. Wil je een kijkje in de Backend? Bel of ma\u2026https://t.co/f0OWora6IH",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631899638086430721": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "buff.ly/1KjHcj9",
+     "url": "http://t.co/Wy4KuI8UX5",
+     "expanded_url": "http://buff.ly/1KjHcj9",
+     "indices": [
+      99,
+      121
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "webtoprint",
+     "indices": [
+      122,
+      133
+     ]
+    },
+    {
+     "text": "w2p",
+     "indices": [
+      134,
+      138
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Sun Jun 21 19:51:07 +0000 2015",
+   "contributors_enabled": false,
+   "geo_enabled": false,
+   "profile_use_background_image": false,
+   "follow_request_sent": false,
+   "description": "A holistic Marketing Management Platform that allows you to streamline ordering, production, fulfillment and distribution of all your marketing assets.",
+   "followers_count": 128,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/613076573227343872/C5FtKUE9_normal.jpg",
+   "listed_count": 6,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/613076573227343872/C5FtKUE9_normal.jpg",
+   "profile_background_color": "000000",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Austin, TX",
+   "url": "http://t.co/5UQWNq53T8",
+   "protected": false,
+   "lang": "en",
+   "time_zone": "Central Time (US & Canada)",
+   "statuses_count": 22,
+   "following": false,
+   "profile_text_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "propago.com",
+       "url": "http://t.co/5UQWNq53T8",
+       "expanded_url": "http://www.propago.com",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "228891",
+   "name": "Propago",
+   "favourites_count": 3,
+   "id": 3252030247,
+   "screen_name": "propagoplatform",
+   "id_str": "3252030247",
+   "utc_offset": -18000,
+   "notifications": false,
+   "profile_sidebar_border_color": "000000",
+   "friends_count": 383,
+   "profile_sidebar_fill_color": "000000",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3252030247/1435085218",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "webtoprint",
+    "indices": [
+     122,
+     133
+    ]
+   },
+   {
+    "text": "w2p",
+    "indices": [
+     134,
+     138
+    ]
+   }
+  ],
+  "id_str": "631899638086430721",
+  "user_screen_name": "propagoplatform",
+  "favorite_count": 1,
+  "date": "2015-08-13 18:46:28",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "buff.ly/1KjHcj9",
+    "url": "http://t.co/Wy4KuI8UX5",
+    "expanded_url": "http://buff.ly/1KjHcj9",
+    "indices": [
+     99,
+     121
+    ]
+   }
+  ],
+  "lang": "en",
+  "text": "Web to Print is means diff things to diff people. We feel it boils down to your target B2B or B2C. http://t.co/Wy4KuI8UX5 #webtoprint #w2p",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "632244418683248640": {
+  "retweet_count": 3,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "gov.uk/design-princip\u2026",
+     "url": "https://t.co/is0ViNsNjh",
+     "expanded_url": "https://www.gov.uk/design-principles#fourth",
+     "indices": [
+      99,
+      122
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      3,
+      12
+     ],
+     "name": "Mike Gifford",
+     "screen_name": "mgifford",
+     "id": 18268293,
+     "id_str": "18268293"
+    },
+    {
+     "indices": [
+      127,
+      135
+     ],
+     "name": "GDS",
+     "screen_name": "gdsteam",
+     "id": 268349503,
+     "id_str": "268349503"
+    }
+   ],
+   "hashtags": [
+    {
+     "text": "w2p",
+     "indices": [
+      136,
+      140
+     ]
+    },
+    {
+     "text": "gov",
+     "indices": [
+      139,
+      140
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Tue May 05 14:45:59 +0000 2009",
+   "contributors_enabled": false,
+   "geo_enabled": true,
+   "profile_use_background_image": false,
+   "follow_request_sent": false,
+   "description": "Working in the world of #DigitalDiplomacy. Manage @UKinCanada. Also into #Sports & #Music. From #NB living in #QC. Dad to 2 boys. Husband. I speak for myself.",
+   "followers_count": 565,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/593822182557523968/XLQmhktc_normal.jpg",
+   "listed_count": 48,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/593822182557523968/XLQmhktc_normal.jpg",
+   "profile_background_color": "022330",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "",
+   "url": null,
+   "protected": false,
+   "lang": "en",
+   "time_zone": "Eastern Time (US & Canada)",
+   "statuses_count": 3040,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "0084B4",
+   "name": "Trevor Kerr",
+   "favourites_count": 494,
+   "id": 37937270,
+   "screen_name": "MediaKerr",
+   "id_str": "37937270",
+   "utc_offset": -14400,
+   "notifications": false,
+   "profile_sidebar_border_color": "A8C7F7",
+   "friends_count": 1107,
+   "profile_sidebar_fill_color": "C0DFEC",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/37937270/1439327530",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "w2p",
+    "indices": [
+     136,
+     140
+    ]
+   },
+   {
+    "text": "gov",
+    "indices": [
+     139,
+     140
+    ]
+   }
+  ],
+  "id_str": "632244418683248640",
+  "user_screen_name": "MediaKerr",
+  "favorite_count": 0,
+  "date": "2015-08-14 17:36:30",
+  "user_mentions": [
+   {
+    "indices": [
+     3,
+     12
+    ],
+    "name": "Mike Gifford",
+    "screen_name": "mgifford",
+    "id": 18268293,
+    "id_str": "18268293"
+   },
+   {
+    "indices": [
+     127,
+     135
+    ],
+    "name": "GDS",
+    "screen_name": "gdsteam",
+    "id": 268349503,
+    "id_str": "268349503"
+   }
+  ],
+  "urls": [
+   {
+    "display_url": "gov.uk/design-princip\u2026",
+    "url": "https://t.co/is0ViNsNjh",
+    "expanded_url": "https://www.gov.uk/design-principles#fourth",
+    "indices": [
+     99,
+     122
+    ]
+   }
+  ],
+  "lang": "en",
+  "text": "RT @mgifford: Government Digital Service - Design Principles 4) Do the hard work to make it simple https://t.co/is0ViNsNjh via @gdsteam #w2\u2026",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631089208132829184": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "ontario.ca",
+     "url": "http://t.co/CsNrw4RTjD",
+     "expanded_url": "http://www.ontario.ca",
+     "indices": [
+      22,
+      44
+     ]
+    },
+    {
+     "display_url": "gov.uk",
+     "url": "http://t.co/khFTiHOwXg",
+     "expanded_url": "http://www.gov.uk",
+     "indices": [
+      67,
+      89
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "w2p",
+     "indices": [
+      114,
+      118
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Thu Jun 16 17:26:28 +0000 2011",
+   "contributors_enabled": false,
+   "geo_enabled": false,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Policy analyst in the Social Innovation Division of @Jobs_Emplois; j'aide aussi le @DMCPI. #socinn, #impinv, #socent, #opengov, #policyinnovation. Views mine.",
+   "followers_count": 350,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171847238/58cd54633dd1160a23e9c461d206a972_normal.jpeg",
+   "listed_count": 15,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171847238/58cd54633dd1160a23e9c461d206a972_normal.jpeg",
+   "profile_background_color": "C0DEED",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Ottawa, Canada",
+   "url": null,
+   "protected": false,
+   "lang": "en",
+   "time_zone": "Quito",
+   "statuses_count": 874,
+   "following": true,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "0084B4",
+   "name": "Francis NolanPoupart",
+   "favourites_count": 558,
+   "id": 318551964,
+   "screen_name": "fnolanp",
+   "id_str": "318551964",
+   "utc_offset": -18000,
+   "notifications": false,
+   "profile_sidebar_border_color": "C0DEED",
+   "friends_count": 640,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": true,
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/318551964/1403749009",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "w2p",
+    "indices": [
+     114,
+     118
+    ]
+   }
+  ],
+  "id_str": "631089208132829184",
+  "user_screen_name": "fnolanp",
+  "favorite_count": 3,
+  "date": "2015-08-11 13:06:06",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "ontario.ca",
+    "url": "http://t.co/CsNrw4RTjD",
+    "expanded_url": "http://www.ontario.ca",
+    "indices": [
+     22,
+     44
+    ]
+   },
+   {
+    "display_url": "gov.uk",
+    "url": "http://t.co/khFTiHOwXg",
+    "expanded_url": "http://www.gov.uk",
+    "indices": [
+     67,
+     89
+    ]
+   }
+  ],
+  "lang": "en",
+  "text": "I hadn't noticed that http://t.co/CsNrw4RTjD now seems modelled on http://t.co/khFTiHOwXg.  When did that happen? #w2p",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631328695102373888": {
+  "retweet_count": 1,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "schulshop.schaefermedien.de",
+     "url": "https://t.co/k6IfAa5esl",
+     "expanded_url": "https://schulshop.schaefermedien.de",
+     "indices": [
+      51,
+      74
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "Schuljahr",
+     "indices": [
+      39,
+      49
+     ]
+    },
+    {
+     "text": "edu",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "w2p",
+     "indices": [
+      132,
+      136
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Tue May 19 13:14:19 +0000 2009",
+   "contributors_enabled": false,
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Bedarfsgerechte und bezahlbare #webtoprint L\u00f6sungen f\u00fcr Ihr #print #ecommerce #business. Es twittert das Marketing der @bebeyond_de aus Willich am Niederrhein.",
+   "followers_count": 233,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "listed_count": 24,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "profile_background_color": "ECE8E7",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Willich, Nordrhein-Westfalen",
+   "url": "http://t.co/Du0wOndrn8",
+   "protected": false,
+   "lang": "de",
+   "time_zone": "Berlin",
+   "statuses_count": 1648,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "lead-print.com",
+       "url": "http://t.co/Du0wOndrn8",
+       "expanded_url": "http://www.lead-print.com",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "E98100",
+   "name": "Lead-Print",
+   "favourites_count": 70,
+   "id": 41112288,
+   "screen_name": "leadprint",
+   "id_str": "41112288",
+   "utc_offset": 7200,
+   "notifications": false,
+   "profile_sidebar_border_color": "000000",
+   "friends_count": 451,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/41112288/1438148133",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "Schuljahr",
+    "indices": [
+     39,
+     49
+    ]
+   },
+   {
+    "text": "edu",
+    "indices": [
+     127,
+     131
+    ]
+   },
+   {
+    "text": "w2p",
+    "indices": [
+     132,
+     136
+    ]
+   }
+  ],
+  "id_str": "631328695102373888",
+  "user_screen_name": "leadprint",
+  "favorite_count": 2,
+  "date": "2015-08-12 04:57:45",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "schulshop.schaefermedien.de",
+    "url": "https://t.co/k6IfAa5esl",
+    "expanded_url": "https://schulshop.schaefermedien.de",
+    "indices": [
+     51,
+     74
+    ]
+   }
+  ],
+  "lang": "de",
+  "text": "Personalisiere Schulhefte f\u00fcr das neue #Schuljahr.\nhttps://t.co/k6IfAa5esl\nAllen NRW-Sch\u00fclern w\u00fcnschen wir einen guten Start.\n\n#edu #w2p",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631864550032338945": {
+  "retweet_count": 3,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "gov.uk/design-princip\u2026",
+     "url": "https://t.co/is0ViNsNjh",
+     "expanded_url": "https://www.gov.uk/design-principles#fourth",
+     "indices": [
+      99,
+      122
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      3,
+      12
+     ],
+     "name": "Mike Gifford",
+     "screen_name": "mgifford",
+     "id": 18268293,
+     "id_str": "18268293"
+    },
+    {
+     "indices": [
+      127,
+      135
+     ],
+     "name": "GDS",
+     "screen_name": "gdsteam",
+     "id": 268349503,
+     "id_str": "268349503"
+    }
+   ],
+   "hashtags": [
+    {
+     "text": "w2p",
+     "indices": [
+      136,
+      140
+     ]
+    },
+    {
+     "text": "gov",
+     "indices": [
+      139,
+      140
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Wed Dec 22 13:41:32 +0000 2010",
+   "contributors_enabled": false,
+   "geo_enabled": false,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Twitter feed for OpenConcept Consulting Inc. Certified @BCorporation. #Accessibility, Security & Advocacy with #Drupal!",
+   "followers_count": 330,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/522770356654731264/kaS8uv06_normal.png",
+   "listed_count": 48,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/522770356654731264/kaS8uv06_normal.png",
+   "profile_background_color": "C0DEED",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Ottawa, ON",
+   "url": "http://t.co/fPnZhhipFx",
+   "protected": false,
+   "lang": "en",
+   "time_zone": "Eastern Time (US & Canada)",
+   "statuses_count": 683,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "openconcept.ca",
+       "url": "http://t.co/fPnZhhipFx",
+       "expanded_url": "http://openconcept.ca",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "0084B4",
+   "name": "OpenConcept - Drupal",
+   "favourites_count": 128,
+   "id": 229468736,
+   "screen_name": "openconcept_ca",
+   "id_str": "229468736",
+   "utc_offset": -14400,
+   "notifications": false,
+   "profile_sidebar_border_color": "C0DEED",
+   "friends_count": 1049,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": true,
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/229468736/1404503744",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "w2p",
+    "indices": [
+     136,
+     140
+    ]
+   },
+   {
+    "text": "gov",
+    "indices": [
+     139,
+     140
+    ]
+   }
+  ],
+  "id_str": "631864550032338945",
+  "user_screen_name": "openconcept_ca",
+  "favorite_count": 0,
+  "date": "2015-08-13 16:27:02",
+  "user_mentions": [
+   {
+    "indices": [
+     3,
+     12
+    ],
+    "name": "Mike Gifford",
+    "screen_name": "mgifford",
+    "id": 18268293,
+    "id_str": "18268293"
+   },
+   {
+    "indices": [
+     127,
+     135
+    ],
+    "name": "GDS",
+    "screen_name": "gdsteam",
+    "id": 268349503,
+    "id_str": "268349503"
+   }
+  ],
+  "urls": [
+   {
+    "display_url": "gov.uk/design-princip\u2026",
+    "url": "https://t.co/is0ViNsNjh",
+    "expanded_url": "https://www.gov.uk/design-principles#fourth",
+    "indices": [
+     99,
+     122
+    ]
+   }
+  ],
+  "lang": "en",
+  "text": "RT @mgifford: Government Digital Service - Design Principles 4) Do the hard work to make it simple https://t.co/is0ViNsNjh via @gdsteam #w2\u2026",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "630729013955178496": {
+  "retweet_count": 0,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "tinyurl.com/ok56s3r",
+     "url": "http://t.co/2rqov9y4sP",
+     "expanded_url": "http://tinyurl.com/ok56s3r",
+     "indices": [
+      97,
+      119
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "hashtags": [
+    {
+     "text": "onlineshop",
+     "indices": [
+      120,
+      131
+     ]
+    },
+    {
+     "text": "w2p",
+     "indices": [
+      132,
+      136
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Tue May 19 13:14:19 +0000 2009",
+   "contributors_enabled": false,
+   "geo_enabled": true,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Bedarfsgerechte und bezahlbare #webtoprint L\u00f6sungen f\u00fcr Ihr #print #ecommerce #business. Es twittert das Marketing der @bebeyond_de aus Willich am Niederrhein.",
+   "followers_count": 233,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "listed_count": 24,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/625604324354355200/yoI1BeTo_normal.png",
+   "profile_background_color": "ECE8E7",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "Willich, Nordrhein-Westfalen",
+   "url": "http://t.co/Du0wOndrn8",
+   "protected": false,
+   "lang": "de",
+   "time_zone": "Berlin",
+   "statuses_count": 1648,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "display_url": "lead-print.com",
+       "url": "http://t.co/Du0wOndrn8",
+       "expanded_url": "http://www.lead-print.com",
+       "indices": [
+        0,
+        22
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "E98100",
+   "name": "Lead-Print",
+   "favourites_count": 70,
+   "id": 41112288,
+   "screen_name": "leadprint",
+   "id_str": "41112288",
+   "utc_offset": 7200,
+   "notifications": false,
+   "profile_sidebar_border_color": "000000",
+   "friends_count": 451,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": false,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458888443947278336/sizw-EJU.jpeg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/41112288/1438148133",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "onlineshop",
+    "indices": [
+     120,
+     131
+    ]
+   },
+   {
+    "text": "w2p",
+    "indices": [
+     132,
+     136
+    ]
+   }
+  ],
+  "id_str": "630729013955178496",
+  "user_screen_name": "leadprint",
+  "favorite_count": 0,
+  "date": "2015-08-10 13:14:49",
+  "user_mentions": [],
+  "urls": [
+   {
+    "display_url": "tinyurl.com/ok56s3r",
+    "url": "http://t.co/2rqov9y4sP",
+    "expanded_url": "http://tinyurl.com/ok56s3r",
+    "indices": [
+     97,
+     119
+    ]
+   }
+  ],
+  "lang": "de",
+  "text": "Vollst\u00e4ndige Widerrufsbelehrung in Printwerbung erforderlich: Alle H\u00e4ndler, die ihre Waren im... http://t.co/2rqov9y4sP #onlineshop #w2p",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ },
+ "631859232866992128": {
+  "retweet_count": 3,
+  "entities": {
+   "symbols": [],
+   "urls": [
+    {
+     "display_url": "gov.uk/design-princip\u2026",
+     "url": "https://t.co/is0ViNsNjh",
+     "expanded_url": "https://www.gov.uk/design-principles#fourth",
+     "indices": [
+      99,
+      122
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      3,
+      12
+     ],
+     "name": "Mike Gifford",
+     "screen_name": "mgifford",
+     "id": 18268293,
+     "id_str": "18268293"
+    },
+    {
+     "indices": [
+      127,
+      135
+     ],
+     "name": "GDS",
+     "screen_name": "gdsteam",
+     "id": 268349503,
+     "id_str": "268349503"
+    }
+   ],
+   "hashtags": [
+    {
+     "text": "w2p",
+     "indices": [
+      136,
+      140
+     ]
+    },
+    {
+     "text": "gov",
+     "indices": [
+      139,
+      140
+     ]
+    }
+   ]
+  },
+  "reply_to_tweet": null,
+  "quoted_status_id_str": null,
+  "user": {
+   "has_extended_profile": false,
+   "created_at": "Sun Feb 09 14:39:45 +0000 2014",
+   "contributors_enabled": false,
+   "geo_enabled": false,
+   "profile_use_background_image": true,
+   "follow_request_sent": false,
+   "description": "Transparency, governance. Views my own. Transparence, gouvernance, v\u00e9lo, vin, jardin - le tout n'engage que moi.",
+   "followers_count": 164,
+   "is_translation_enabled": false,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/474591277447540736/hZRoc7sG_normal.jpeg",
+   "listed_count": 49,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/474591277447540736/hZRoc7sG_normal.jpeg",
+   "profile_background_color": "C0DEED",
+   "verified": false,
+   "profile_background_tile": false,
+   "default_profile_image": false,
+   "location": "",
+   "url": null,
+   "protected": false,
+   "lang": "fr",
+   "time_zone": "Eastern Time (US & Canada)",
+   "statuses_count": 3068,
+   "following": false,
+   "profile_text_color": "333333",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "profile_link_color": "0084B4",
+   "name": "Yohanna Loucheur",
+   "favourites_count": 271,
+   "id": 2335217287,
+   "screen_name": "YohannaLoucheur",
+   "id_str": "2335217287",
+   "utc_offset": -14400,
+   "notifications": false,
+   "profile_sidebar_border_color": "C0DEED",
+   "friends_count": 143,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "default_profile": true,
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "is_translator": false
+  },
+  "hashtags": [
+   {
+    "text": "w2p",
+    "indices": [
+     136,
+     140
+    ]
+   },
+   {
+    "text": "gov",
+    "indices": [
+     139,
+     140
+    ]
+   }
+  ],
+  "id_str": "631859232866992128",
+  "user_screen_name": "YohannaLoucheur",
+  "favorite_count": 0,
+  "date": "2015-08-13 16:05:55",
+  "user_mentions": [
+   {
+    "indices": [
+     3,
+     12
+    ],
+    "name": "Mike Gifford",
+    "screen_name": "mgifford",
+    "id": 18268293,
+    "id_str": "18268293"
+   },
+   {
+    "indices": [
+     127,
+     135
+    ],
+    "name": "GDS",
+    "screen_name": "gdsteam",
+    "id": 268349503,
+    "id_str": "268349503"
+   }
+  ],
+  "urls": [
+   {
+    "display_url": "gov.uk/design-princip\u2026",
+    "url": "https://t.co/is0ViNsNjh",
+    "expanded_url": "https://www.gov.uk/design-principles#fourth",
+    "indices": [
+     99,
+     122
+    ]
+   }
+  ],
+  "lang": "en",
+  "text": "RT @mgifford: Government Digital Service - Design Principles 4) Do the hard work to make it simple https://t.co/is0ViNsNjh via @gdsteam #w2\u2026",
+  "coordinates": null,
+  "reply_to": null,
+  "quoted_status": false
+ }
+}

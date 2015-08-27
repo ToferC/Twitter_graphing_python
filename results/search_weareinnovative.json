@@ -1,0 +1,675 @@
+{
+ "631905400326111232": {
+  "quoted_status": false,
+  "text": "RT @School_GC: Don\u2019t miss the rebroadcast of Think Lean: A Renewed Workplace on August 27! http://t.co/UWNBeSmRgc #WeAreInnovative",
+  "quoted_status_id_str": null,
+  "lang": "en",
+  "urls": [
+   {
+    "url": "http://t.co/UWNBeSmRgc",
+    "indices": [
+     91,
+     113
+    ],
+    "display_url": "ow.ly/PWBKi",
+    "expanded_url": "http://ow.ly/PWBKi"
+   }
+  ],
+  "reply_to_tweet": null,
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      114,
+      130
+     ],
+     "text": "WeAreInnovative"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/UWNBeSmRgc",
+     "indices": [
+      91,
+      113
+     ],
+     "display_url": "ow.ly/PWBKi",
+     "expanded_url": "http://ow.ly/PWBKi"
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "School_GC",
+     "name": "Canada School of PS",
+     "id_str": "588392113",
+     "indices": [
+      3,
+      13
+     ],
+     "id": 588392113
+    }
+   ]
+  },
+  "user": {
+   "url": "http://t.co/H3AtJwc4eu",
+   "followers_count": 182,
+   "time_zone": "Central Time (US & Canada)",
+   "following": false,
+   "id": 479639128,
+   "lang": "en",
+   "verified": false,
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/H3AtJwc4eu",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "APEX.gc.ca",
+       "expanded_url": "http://www.APEX.gc.ca"
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "default_profile_image": false,
+   "profile_use_background_image": true,
+   "profile_background_tile": true,
+   "follow_request_sent": false,
+   "profile_text_color": "333333",
+   "profile_link_color": "4277A2",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/591663747548073985/WEQ2xdn9_normal.jpg",
+   "has_extended_profile": false,
+   "id_str": "479639128",
+   "friends_count": 152,
+   "profile_sidebar_border_color": "EEEEEE",
+   "is_translator": false,
+   "utc_offset": -18000,
+   "is_translation_enabled": false,
+   "profile_sidebar_fill_color": "EFEFEF",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+   "screen_name": "APEX_GC",
+   "description": "Association of Professional Executives of the Public Service of Canada | L'Association professionnelle des cadres sup\u00e9rieurs de la fonction publique du Canada",
+   "statuses_count": 269,
+   "contributors_enabled": false,
+   "profile_background_color": "131516",
+   "default_profile": false,
+   "created_at": "Tue Jan 31 16:11:08 +0000 2012",
+   "favourites_count": 1,
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+   "location": "Ottawa, Ontario",
+   "listed_count": 5,
+   "notifications": false,
+   "name": "APEX",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/479639128/1431032640",
+   "geo_enabled": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/591663747548073985/WEQ2xdn9_normal.jpg",
+   "protected": false
+  },
+  "reply_to": null,
+  "coordinates": null,
+  "user_mentions": [
+   {
+    "screen_name": "School_GC",
+    "name": "Canada School of PS",
+    "id_str": "588392113",
+    "indices": [
+     3,
+     13
+    ],
+    "id": 588392113
+   }
+  ],
+  "retweet_count": 2,
+  "hashtags": [
+   {
+    "indices": [
+     114,
+     130
+    ],
+    "text": "WeAreInnovative"
+   }
+  ],
+  "favorite_count": 0,
+  "date": "2015-08-13 19:09:22",
+  "id_str": "631905400326111232",
+  "user_screen_name": "APEX_GC"
+ },
+ "631802759159922688": {
+  "quoted_status": false,
+  "text": "Don\u2019t miss the rebroadcast of Think Lean: A Renewed Workplace on August 27! http://t.co/UWNBeSmRgc #WeAreInnovative",
+  "quoted_status_id_str": null,
+  "lang": "en",
+  "urls": [
+   {
+    "url": "http://t.co/UWNBeSmRgc",
+    "indices": [
+     76,
+     98
+    ],
+    "display_url": "ow.ly/PWBKi",
+    "expanded_url": "http://ow.ly/PWBKi"
+   }
+  ],
+  "reply_to_tweet": null,
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      99,
+      115
+     ],
+     "text": "WeAreInnovative"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/UWNBeSmRgc",
+     "indices": [
+      76,
+      98
+     ],
+     "display_url": "ow.ly/PWBKi",
+     "expanded_url": "http://ow.ly/PWBKi"
+    }
+   ],
+   "symbols": [],
+   "user_mentions": []
+  },
+  "user": {
+   "url": "http://t.co/Xu8D96YBMm",
+   "followers_count": 1636,
+   "time_zone": "Eastern Time (US & Canada)",
+   "following": true,
+   "id": 588392113,
+   "lang": "en",
+   "verified": false,
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/Xu8D96YBMm",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "csps-efpc.gc.ca",
+       "expanded_url": "http://www.csps-efpc.gc.ca"
+      }
+     ]
+    },
+    "description": {
+     "urls": [
+      {
+       "url": "http://t.co/T81tGp0L1j",
+       "indices": [
+        94,
+        116
+       ],
+       "display_url": "ow.ly/QwO0D",
+       "expanded_url": "http://ow.ly/QwO0D"
+      }
+     ]
+    }
+   },
+   "default_profile_image": false,
+   "profile_use_background_image": true,
+   "profile_background_tile": true,
+   "follow_request_sent": false,
+   "profile_text_color": "333333",
+   "profile_link_color": "005261",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/629721377268875265/E7HAazLp_normal.png",
+   "has_extended_profile": false,
+   "id_str": "588392113",
+   "friends_count": 171,
+   "profile_sidebar_border_color": "000000",
+   "is_translator": false,
+   "utc_offset": -14400,
+   "is_translation_enabled": false,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/808051700/d5de544dc92e25fcba458d87cfe312d0.png",
+   "screen_name": "School_GC",
+   "description": "The Canada School of Public Service - Your partner in learning. For our Twitter Terms of Use: http://t.co/T81tGp0L1j. En francais: @Ecole_GC.",
+   "statuses_count": 1565,
+   "contributors_enabled": false,
+   "profile_background_color": "4C504A",
+   "default_profile": false,
+   "created_at": "Wed May 23 16:01:39 +0000 2012",
+   "favourites_count": 3,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/808051700/d5de544dc92e25fcba458d87cfe312d0.png",
+   "location": "Canada",
+   "listed_count": 36,
+   "notifications": false,
+   "name": "Canada School of PS",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/588392113/1362684077",
+   "geo_enabled": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/629721377268875265/E7HAazLp_normal.png",
+   "protected": false
+  },
+  "reply_to": null,
+  "coordinates": null,
+  "user_mentions": [],
+  "retweet_count": 2,
+  "hashtags": [
+   {
+    "indices": [
+     99,
+     115
+    ],
+    "text": "WeAreInnovative"
+   }
+  ],
+  "favorite_count": 3,
+  "date": "2015-08-13 12:21:30",
+  "id_str": "631802759159922688",
+  "user_screen_name": "School_GC"
+ },
+ "630810673736491008": {
+  "quoted_status": false,
+  "text": "Don\u2019t miss the next session of the Executive Lecture Series on August 28! http://t.co/BGDs1wW6v8 #WeAreInnovative",
+  "quoted_status_id_str": null,
+  "lang": "en",
+  "urls": [
+   {
+    "url": "http://t.co/BGDs1wW6v8",
+    "indices": [
+     74,
+     96
+    ],
+    "display_url": "ow.ly/PWz1w",
+    "expanded_url": "http://ow.ly/PWz1w"
+   }
+  ],
+  "reply_to_tweet": null,
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      97,
+      113
+     ],
+     "text": "WeAreInnovative"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/BGDs1wW6v8",
+     "indices": [
+      74,
+      96
+     ],
+     "display_url": "ow.ly/PWz1w",
+     "expanded_url": "http://ow.ly/PWz1w"
+    }
+   ],
+   "symbols": [],
+   "user_mentions": []
+  },
+  "user": {
+   "url": "http://t.co/Xu8D96YBMm",
+   "followers_count": 1636,
+   "time_zone": "Eastern Time (US & Canada)",
+   "following": true,
+   "id": 588392113,
+   "lang": "en",
+   "verified": false,
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/Xu8D96YBMm",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "csps-efpc.gc.ca",
+       "expanded_url": "http://www.csps-efpc.gc.ca"
+      }
+     ]
+    },
+    "description": {
+     "urls": [
+      {
+       "url": "http://t.co/T81tGp0L1j",
+       "indices": [
+        94,
+        116
+       ],
+       "display_url": "ow.ly/QwO0D",
+       "expanded_url": "http://ow.ly/QwO0D"
+      }
+     ]
+    }
+   },
+   "default_profile_image": false,
+   "profile_use_background_image": true,
+   "profile_background_tile": true,
+   "follow_request_sent": false,
+   "profile_text_color": "333333",
+   "profile_link_color": "005261",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/629721377268875265/E7HAazLp_normal.png",
+   "has_extended_profile": false,
+   "id_str": "588392113",
+   "friends_count": 171,
+   "profile_sidebar_border_color": "000000",
+   "is_translator": false,
+   "utc_offset": -14400,
+   "is_translation_enabled": false,
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/808051700/d5de544dc92e25fcba458d87cfe312d0.png",
+   "screen_name": "School_GC",
+   "description": "The Canada School of Public Service - Your partner in learning. For our Twitter Terms of Use: http://t.co/T81tGp0L1j. En francais: @Ecole_GC.",
+   "statuses_count": 1565,
+   "contributors_enabled": false,
+   "profile_background_color": "4C504A",
+   "default_profile": false,
+   "created_at": "Wed May 23 16:01:39 +0000 2012",
+   "favourites_count": 3,
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/808051700/d5de544dc92e25fcba458d87cfe312d0.png",
+   "location": "Canada",
+   "listed_count": 36,
+   "notifications": false,
+   "name": "Canada School of PS",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/588392113/1362684077",
+   "geo_enabled": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/629721377268875265/E7HAazLp_normal.png",
+   "protected": false
+  },
+  "reply_to": null,
+  "coordinates": null,
+  "user_mentions": [],
+  "retweet_count": 0,
+  "hashtags": [
+   {
+    "indices": [
+     97,
+     113
+    ],
+    "text": "WeAreInnovative"
+   }
+  ],
+  "favorite_count": 0,
+  "date": "2015-08-10 18:39:19",
+  "id_str": "630810673736491008",
+  "user_screen_name": "School_GC"
+ },
+ "631986915533791233": {
+  "quoted_status": false,
+  "text": "RT @School_GC: Don\u2019t miss the rebroadcast of Think Lean: A Renewed Workplace on August 27! http://t.co/UWNBeSmRgc #WeAreInnovative",
+  "quoted_status_id_str": null,
+  "lang": "en",
+  "urls": [
+   {
+    "url": "http://t.co/UWNBeSmRgc",
+    "indices": [
+     91,
+     113
+    ],
+    "display_url": "ow.ly/PWBKi",
+    "expanded_url": "http://ow.ly/PWBKi"
+   }
+  ],
+  "reply_to_tweet": null,
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      114,
+      130
+     ],
+     "text": "WeAreInnovative"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/UWNBeSmRgc",
+     "indices": [
+      91,
+      113
+     ],
+     "display_url": "ow.ly/PWBKi",
+     "expanded_url": "http://ow.ly/PWBKi"
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "School_GC",
+     "name": "Canada School of PS",
+     "id_str": "588392113",
+     "indices": [
+      3,
+      13
+     ],
+     "id": 588392113
+    }
+   ]
+  },
+  "user": {
+   "url": null,
+   "followers_count": 115,
+   "time_zone": "Eastern Time (US & Canada)",
+   "following": false,
+   "id": 2783810385,
+   "lang": "en",
+   "verified": false,
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "default_profile_image": false,
+   "profile_use_background_image": true,
+   "profile_background_tile": false,
+   "follow_request_sent": false,
+   "profile_text_color": "333333",
+   "profile_link_color": "0084B4",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/549959943743606784/WOZOFolD_normal.jpeg",
+   "has_extended_profile": false,
+   "id_str": "2783810385",
+   "friends_count": 170,
+   "profile_sidebar_border_color": "BDDCAD",
+   "is_translator": false,
+   "utc_offset": -14400,
+   "is_translation_enabled": false,
+   "profile_sidebar_fill_color": "DDFFCC",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+   "screen_name": "AM_Hume",
+   "description": "Interested in social leadership, public service leadership, and women and girls in sports. Views my own.",
+   "statuses_count": 104,
+   "contributors_enabled": false,
+   "profile_background_color": "9AE4E8",
+   "default_profile": false,
+   "created_at": "Thu Sep 25 15:28:36 +0000 2014",
+   "favourites_count": 63,
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+   "location": "",
+   "listed_count": 5,
+   "notifications": false,
+   "name": "Ann Marie Hume",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2783810385/1435682512",
+   "geo_enabled": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/549959943743606784/WOZOFolD_normal.jpeg",
+   "protected": false
+  },
+  "reply_to": null,
+  "coordinates": null,
+  "user_mentions": [
+   {
+    "screen_name": "School_GC",
+    "name": "Canada School of PS",
+    "id_str": "588392113",
+    "indices": [
+     3,
+     13
+    ],
+    "id": 588392113
+   }
+  ],
+  "retweet_count": 2,
+  "hashtags": [
+   {
+    "indices": [
+     114,
+     130
+    ],
+    "text": "WeAreInnovative"
+   }
+  ],
+  "favorite_count": 0,
+  "date": "2015-08-14 00:33:17",
+  "id_str": "631986915533791233",
+  "user_screen_name": "AM_Hume"
+ },
+ "630869984537878528": {
+  "quoted_status": false,
+  "text": "@InnovativePerc the sticks and mallets are working great here at ASU! Thanks for the great products! #weareinnovative http://t.co/Wc5AFLGbas",
+  "quoted_status_id_str": null,
+  "lang": "en",
+  "urls": [],
+  "reply_to_tweet": null,
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      101,
+      117
+     ],
+     "text": "weareinnovative"
+    }
+   ],
+   "media": [
+    {
+     "url": "http://t.co/Wc5AFLGbas",
+     "media_url": "http://pbs.twimg.com/media/CMFM5qvUMAA1BzS.jpg",
+     "indices": [
+      118,
+      140
+     ],
+     "media_url_https": "https://pbs.twimg.com/media/CMFM5qvUMAA1BzS.jpg",
+     "id": 630869976417579008,
+     "display_url": "pic.twitter.com/Wc5AFLGbas",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "resize": "fit",
+       "h": 336,
+       "w": 1024
+      },
+      "small": {
+       "resize": "fit",
+       "h": 111,
+       "w": 340
+      },
+      "medium": {
+       "resize": "fit",
+       "h": 196,
+       "w": 600
+      },
+      "thumb": {
+       "resize": "crop",
+       "h": 150,
+       "w": 150
+      }
+     },
+     "id_str": "630869976417579008",
+     "expanded_url": "http://twitter.com/macpercussion_/status/630869984537878528/photo/1"
+    }
+   ],
+   "urls": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "InnovativePerc",
+     "name": "InnovativePercussion",
+     "id_str": "94350119",
+     "indices": [
+      0,
+      15
+     ],
+     "id": 94350119
+    }
+   ]
+  },
+  "user": {
+   "url": null,
+   "followers_count": 228,
+   "time_zone": "Atlantic Time (Canada)",
+   "following": false,
+   "id": 1549298250,
+   "lang": "en",
+   "verified": false,
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "default_profile_image": false,
+   "profile_use_background_image": true,
+   "profile_background_tile": true,
+   "follow_request_sent": false,
+   "profile_text_color": "333333",
+   "profile_link_color": "009999",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/571466449048502272/GJdRfDjy_normal.jpeg",
+   "has_extended_profile": false,
+   "id_str": "1549298250",
+   "friends_count": 185,
+   "profile_sidebar_border_color": "EEEEEE",
+   "is_translator": false,
+   "utc_offset": -10800,
+   "is_translation_enabled": false,
+   "profile_sidebar_fill_color": "EFEFEF",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+   "screen_name": "macpercussion_",
+   "description": "Percussionist, Performer, Educator,SABIAN Cymbals and Innovative Percussion Artist who likes making music.",
+   "statuses_count": 1437,
+   "contributors_enabled": false,
+   "profile_background_color": "131516",
+   "default_profile": false,
+   "created_at": "Wed Jun 26 23:29:39 +0000 2013",
+   "favourites_count": 533,
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+   "location": "Tri-Cities, TN",
+   "listed_count": 3,
+   "notifications": false,
+   "name": "Mark Collins, II",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1549298250/1399519790",
+   "geo_enabled": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/571466449048502272/GJdRfDjy_normal.jpeg",
+   "protected": false
+  },
+  "reply_to": "InnovativePerc",
+  "coordinates": null,
+  "user_mentions": [
+   {
+    "screen_name": "InnovativePerc",
+    "name": "InnovativePercussion",
+    "id_str": "94350119",
+    "indices": [
+     0,
+     15
+    ],
+    "id": 94350119
+   }
+  ],
+  "retweet_count": 0,
+  "hashtags": [
+   {
+    "indices": [
+     101,
+     117
+    ],
+    "text": "weareinnovative"
+   }
+  ],
+  "favorite_count": 0,
+  "date": "2015-08-10 22:34:59",
+  "id_str": "630869984537878528",
+  "user_screen_name": "macpercussion_"
+ }
+}

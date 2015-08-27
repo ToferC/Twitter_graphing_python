@@ -1,0 +1,58 @@
+{
+    "links": [
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 2,
+            "target": 0
+        },
+        {
+            "source": 4,
+            "target": 1
+        },
+        {
+            "source": 5,
+            "target": 0
+        }
+    ],
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "label": "Heather",
+            "id": "Heather"
+        },
+        {
+            "label": "Thomas",
+            "id": "Thomas"
+        },
+        {
+            "label": "Rebecca",
+            "id": "Rebecca"
+        },
+        {
+            "label": "Ian",
+            "id": "Ian"
+        },
+        {
+            "label": "Chris",
+            "Dude": true,
+            "id": "Chris"
+        },
+        {
+            "label": "Bob",
+            "id": "Bob"
+        }
+    ]
+}

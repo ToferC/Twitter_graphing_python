@@ -1,0 +1,3972 @@
+{
+ "631833084023992320": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      53,
+      61
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      89,
+      108
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      16,
+      30
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/rmo1Vd6bUe",
+     "indices": [
+      110,
+      133
+     ],
+     "display_url": "twitter.com/consultcollab/\u2026",
+     "expanded_url": "https://twitter.com/consultcollab/status/631827041395019777"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 1,
+  "user_screen_name": "efeatherston",
+  "date": "2015-08-13 14:22:00",
+  "quoted_status": true,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": "631827041395019777",
+  "hashtags": [
+   {
+    "indices": [
+     53,
+     61
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     89,
+     108
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     16,
+     30
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "631833084023992320",
+  "urls": [
+   {
+    "url": "https://t.co/rmo1Vd6bUe",
+    "indices": [
+     110,
+     133
+    ],
+    "display_url": "twitter.com/consultcollab/\u2026",
+    "expanded_url": "https://twitter.com/consultcollab/status/631827041395019777"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "follow_request_sent": false,
+   "screen_name": "efeatherston",
+   "name": "Ed Featherston",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000425113182/8118df59baa04118c90dabceb8ffd107_normal.jpeg",
+   "following": false,
+   "profile_background_color": "C0DEED",
+   "default_profile": true,
+   "favourites_count": 3331,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000425113182/8118df59baa04118c90dabceb8ffd107_normal.jpeg",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 152084906,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/152084906/1433435636",
+   "url": "http://t.co/onf9IpwnUR",
+   "notifications": false,
+   "created_at": "Sat Jun 05 01:38:42 +0000 2010",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": "Atlantic Time (Canada)",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/onf9IpwnUR",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "collaborative.com/blog",
+       "expanded_url": "http://collaborative.com/blog"
+      }
+     ]
+    },
+    "description": {
+     "urls": [
+      {
+       "url": "http://t.co/7lCSlaVgZh",
+       "indices": [
+        114,
+        136
+       ],
+       "display_url": "edfeatherston.sys-con.com",
+       "expanded_url": "http://edfeatherston.sys-con.com"
+      },
+      {
+       "url": "http://t.co/cNoWcvnilG",
+       "indices": [
+        138,
+        160
+       ],
+       "display_url": "insights.wired.com/profile/EdFeat\u2026",
+       "expanded_url": "http://insights.wired.com/profile/EdFeatherston"
+      }
+     ]
+    }
+   },
+   "location": "Burlington, MA",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "Enterprise Architect @ Collaborative Consulting (@consultCollab)\r\n#cloud #cloudcomputing #entarch\r\ntweets my own\r\nhttp://t.co/7lCSlaVgZh\r\nhttp://t.co/cNoWcvnilG",
+   "listed_count": 183,
+   "statuses_count": 12168,
+   "followers_count": 2051,
+   "profile_sidebar_border_color": "C0DEED",
+   "id_str": "152084906",
+   "utc_offset": -10800,
+   "profile_link_color": "0084B4",
+   "geo_enabled": true,
+   "friends_count": 2034,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 3,
+  "reply_to": null,
+  "text": "Congratulations @consultcollab 5 time honoree of the #Inc5000 fastest growing companies. #WeAreCollaborative  https://t.co/rmo1Vd6bUe"
+ },
+ "630794473761566721": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      122,
+      140
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      3,
+      13
+     ],
+     "screen_name": "School_GC",
+     "id": 588392113,
+     "name": "Canada School of PS",
+     "id_str": "588392113"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/GMsDdD1R6I",
+     "indices": [
+      99,
+      121
+     ],
+     "display_url": "ow.ly/QAiwc",
+     "expanded_url": "http://ow.ly/QAiwc"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 1,
+  "user_screen_name": "NathF_003",
+  "date": "2015-08-10 17:34:56",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     122,
+     140
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     3,
+     13
+    ],
+    "screen_name": "School_GC",
+    "id": 588392113,
+    "name": "Canada School of PS",
+    "id_str": "588392113"
+   }
+  ],
+  "id_str": "630794473761566721",
+  "urls": [
+   {
+    "url": "http://t.co/GMsDdD1R6I",
+    "indices": [
+     99,
+     121
+    ],
+    "display_url": "ow.ly/QAiwc",
+    "expanded_url": "http://ow.ly/QAiwc"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000122493450/09c1c292b60332e237bbe820cbd2dee1.jpeg",
+   "follow_request_sent": false,
+   "screen_name": "NathF_003",
+   "name": "Nathalie Faucon",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000122493450/09c1c292b60332e237bbe820cbd2dee1.jpeg",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/488406001628884994/bijnbMiN_normal.jpeg",
+   "following": false,
+   "profile_background_color": "234757",
+   "default_profile": false,
+   "favourites_count": 150,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/488406001628884994/bijnbMiN_normal.jpeg",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 2211046927,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2211046927/1385230083",
+   "url": null,
+   "notifications": false,
+   "created_at": "Sat Nov 23 17:29:35 +0000 2013",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": null,
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "Stratford, PE",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "Loving Life... and have the pictures to prove it!",
+   "listed_count": 2,
+   "statuses_count": 498,
+   "followers_count": 93,
+   "profile_sidebar_border_color": "FFFFFF",
+   "id_str": "2211046927",
+   "utc_offset": null,
+   "profile_link_color": "0084B4",
+   "geo_enabled": true,
+   "friends_count": 276,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 0,
+  "reply_to": null,
+  "text": "RT @School_GC: HR practitioners: Share your ideas, best practices and vision for 2020 on Sept. 23. http://t.co/GMsDdD1R6I #WeAreCollaborati\u2026"
+ },
+ "631850117998338048": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      56,
+      64
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      92,
+      111
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      11,
+      25
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/ruErfGMAZI",
+     "indices": [
+      112,
+      134
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 4,
+  "user_screen_name": "WKuketz",
+  "date": "2015-08-13 15:29:41",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     56,
+     64
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     92,
+     111
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     11,
+     25
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "631850117998338048",
+  "urls": [
+   {
+    "url": "http://t.co/ruErfGMAZI",
+    "indices": [
+     112,
+     134
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "follow_request_sent": false,
+   "screen_name": "WKuketz",
+   "name": "Walter Kuketz",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/528629411398971392/Zl1PYn4V_normal.jpeg",
+   "following": false,
+   "profile_background_color": "C0DEED",
+   "default_profile": true,
+   "favourites_count": 412,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/528629411398971392/Zl1PYn4V_normal.jpeg",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 38009327,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/38009327/1414871321",
+   "url": "http://t.co/w0T5OT5VWd",
+   "notifications": false,
+   "created_at": "Tue May 05 20:19:11 +0000 2009",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": "Eastern Time (US & Canada)",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/w0T5OT5VWd",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "collaborative.com",
+       "expanded_url": "http://www.collaborative.com"
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "Boston, New Brunswick, Philly",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "CTO. Entrepreneur, Enterprise Architect , Performance Engineer. @consultcollab, #devops #APM #Cloud, startup mentor #ArtificialIntelligence #DataScience #Scrum",
+   "listed_count": 31,
+   "statuses_count": 672,
+   "followers_count": 280,
+   "profile_sidebar_border_color": "C0DEED",
+   "id_str": "38009327",
+   "utc_offset": -14400,
+   "profile_link_color": "0084B4",
+   "geo_enabled": true,
+   "friends_count": 530,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 6,
+  "reply_to": null,
+  "text": "Proud that @consultcollab is a five-time honoree of the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/ruErfGMAZI"
+ },
+ "632167113113731072": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      71,
+      79
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      107,
+      126
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      3,
+      12
+     ],
+     "screen_name": "zslayton",
+     "id": 303956678,
+     "name": "Zach Slayton",
+     "id_str": "303956678"
+    },
+    {
+     "indices": [
+      33,
+      47
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/F9sJ0ILS9f",
+     "indices": [
+      127,
+      140
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 3,
+  "user_screen_name": "efeatherston",
+  "date": "2015-08-14 12:29:19",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     71,
+     79
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     107,
+     126
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     3,
+     12
+    ],
+    "screen_name": "zslayton",
+    "id": 303956678,
+    "name": "Zach Slayton",
+    "id_str": "303956678"
+   },
+   {
+    "indices": [
+     33,
+     47
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "632167113113731072",
+  "urls": [
+   {
+    "url": "http://t.co/F9sJ0ILS9f",
+    "indices": [
+     127,
+     140
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "follow_request_sent": false,
+   "screen_name": "efeatherston",
+   "name": "Ed Featherston",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000425113182/8118df59baa04118c90dabceb8ffd107_normal.jpeg",
+   "following": false,
+   "profile_background_color": "C0DEED",
+   "default_profile": true,
+   "favourites_count": 3331,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000425113182/8118df59baa04118c90dabceb8ffd107_normal.jpeg",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 152084906,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/152084906/1433435636",
+   "url": "http://t.co/onf9IpwnUR",
+   "notifications": false,
+   "created_at": "Sat Jun 05 01:38:42 +0000 2010",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": "Atlantic Time (Canada)",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/onf9IpwnUR",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "collaborative.com/blog",
+       "expanded_url": "http://collaborative.com/blog"
+      }
+     ]
+    },
+    "description": {
+     "urls": [
+      {
+       "url": "http://t.co/7lCSlaVgZh",
+       "indices": [
+        114,
+        136
+       ],
+       "display_url": "edfeatherston.sys-con.com",
+       "expanded_url": "http://edfeatherston.sys-con.com"
+      },
+      {
+       "url": "http://t.co/cNoWcvnilG",
+       "indices": [
+        138,
+        160
+       ],
+       "display_url": "insights.wired.com/profile/EdFeat\u2026",
+       "expanded_url": "http://insights.wired.com/profile/EdFeatherston"
+      }
+     ]
+    }
+   },
+   "location": "Burlington, MA",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "Enterprise Architect @ Collaborative Consulting (@consultCollab)\r\n#cloud #cloudcomputing #entarch\r\ntweets my own\r\nhttp://t.co/7lCSlaVgZh\r\nhttp://t.co/cNoWcvnilG",
+   "listed_count": 183,
+   "statuses_count": 12168,
+   "followers_count": 2051,
+   "profile_sidebar_border_color": "C0DEED",
+   "id_str": "152084906",
+   "utc_offset": -10800,
+   "profile_link_color": "0084B4",
+   "geo_enabled": true,
+   "friends_count": 2034,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 0,
+  "reply_to": null,
+  "text": "RT @zslayton: One for the thumb! @consultcollab is a 5x honoree of the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/\u2026"
+ },
+ "632144898385444864": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      57,
+      65
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      93,
+      112
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      19,
+      33
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/F9sJ0ILS9f",
+     "indices": [
+      113,
+      135
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 3,
+  "user_screen_name": "zslayton",
+  "date": "2015-08-14 11:01:03",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     57,
+     65
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     93,
+     112
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     19,
+     33
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "632144898385444864",
+  "urls": [
+   {
+    "url": "http://t.co/F9sJ0ILS9f",
+    "indices": [
+     113,
+     135
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+   "follow_request_sent": false,
+   "screen_name": "zslayton",
+   "name": "Zach Slayton",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000838421179/e15e7fe3c944e2a52de64febc4a8cd2e_normal.jpeg",
+   "following": false,
+   "profile_background_color": "131516",
+   "default_profile": false,
+   "favourites_count": 36,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000838421179/e15e7fe3c944e2a52de64febc4a8cd2e_normal.jpeg",
+   "profile_sidebar_fill_color": "EFEFEF",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 303956678,
+   "url": "http://t.co/apYpaW2MgO",
+   "notifications": false,
+   "created_at": "Mon May 23 18:03:16 +0000 2011",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": "Eastern Time (US & Canada)",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/apYpaW2MgO",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "collaborative.com/blog/",
+       "expanded_url": "http://www.collaborative.com/blog/"
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "Boston, MA",
+   "profile_background_tile": true,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "Technical Architect @consultcollab focused on Digital Solutions.  Husband and dad. Sailor. Go #bruins #redsox #patriots!",
+   "listed_count": 11,
+   "statuses_count": 734,
+   "followers_count": 173,
+   "profile_sidebar_border_color": "EEEEEE",
+   "id_str": "303956678",
+   "utc_offset": -14400,
+   "profile_link_color": "009999",
+   "geo_enabled": false,
+   "friends_count": 256,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 3,
+  "reply_to": null,
+  "text": "One for the thumb! @consultcollab is a 5x honoree of the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/F9sJ0ILS9f"
+ },
+ "631841811695316992": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      56,
+      64
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      92,
+      111
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "media": [
+    {
+     "source_user_id_str": "1262654858",
+     "expanded_url": "http://twitter.com/consultcollab/status/631827041395019777/photo/1",
+     "indices": [
+      139,
+      140
+     ],
+     "source_status_id_str": "631827041395019777",
+     "source_user_id": 1262654858,
+     "media_url": "http://pbs.twimg.com/media/CMSzWJbUYAEf685.jpg",
+     "display_url": "pic.twitter.com/q6ZTO1btXh",
+     "id_str": "631827040807706625",
+     "id": 631827040807706625,
+     "sizes": {
+      "large": {
+       "w": 1024,
+       "resize": "fit",
+       "h": 512
+      },
+      "medium": {
+       "w": 600,
+       "resize": "fit",
+       "h": 300
+      },
+      "thumb": {
+       "w": 150,
+       "resize": "crop",
+       "h": 150
+      },
+      "small": {
+       "w": 340,
+       "resize": "fit",
+       "h": 170
+      }
+     },
+     "url": "http://t.co/q6ZTO1btXh",
+     "media_url_https": "https://pbs.twimg.com/media/CMSzWJbUYAEf685.jpg",
+     "type": "photo",
+     "source_status_id": 631827041395019777
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      3,
+      17
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/CIJHhEVHZ4",
+     "indices": [
+      112,
+      134
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 3,
+  "user_screen_name": "HutchAtGartner",
+  "date": "2015-08-13 14:56:41",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     56,
+     64
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     92,
+     111
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     3,
+     17
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "631841811695316992",
+  "urls": [
+   {
+    "url": "http://t.co/CIJHhEVHZ4",
+    "indices": [
+     112,
+     134
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "follow_request_sent": false,
+   "screen_name": "HutchAtGartner",
+   "name": "Hutchinson",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000216593582/f29c734ce58ffc1fc0f9d7e8b9af80dd_normal.jpeg",
+   "following": false,
+   "profile_background_color": "C0DEED",
+   "default_profile": true,
+   "favourites_count": 357,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000216593582/f29c734ce58ffc1fc0f9d7e8b9af80dd_normal.jpeg",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 1600969874,
+   "url": null,
+   "notifications": false,
+   "created_at": "Wed Jul 17 13:30:39 +0000 2013",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": null,
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "Trusted Advisor connecting IT solution providers with F1000 & F500 IT Buyers. General IT enthusiast. My tweets are my own.",
+   "listed_count": 11,
+   "statuses_count": 579,
+   "followers_count": 107,
+   "profile_sidebar_border_color": "C0DEED",
+   "id_str": "1600969874",
+   "utc_offset": null,
+   "profile_link_color": "0084B4",
+   "geo_enabled": true,
+   "friends_count": 198,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 0,
+  "reply_to": null,
+  "text": "RT @consultcollab: Collab is a five-time honoree of the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/CIJHhEVHZ4 http\u2026"
+ },
+ "631850316976287749": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      56,
+      64
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      92,
+      111
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "media": [
+    {
+     "source_user_id_str": "1262654858",
+     "expanded_url": "http://twitter.com/consultcollab/status/631827041395019777/photo/1",
+     "indices": [
+      139,
+      140
+     ],
+     "source_status_id_str": "631827041395019777",
+     "source_user_id": 1262654858,
+     "media_url": "http://pbs.twimg.com/media/CMSzWJbUYAEf685.jpg",
+     "display_url": "pic.twitter.com/q6ZTO1btXh",
+     "id_str": "631827040807706625",
+     "id": 631827040807706625,
+     "sizes": {
+      "large": {
+       "w": 1024,
+       "resize": "fit",
+       "h": 512
+      },
+      "medium": {
+       "w": 600,
+       "resize": "fit",
+       "h": 300
+      },
+      "thumb": {
+       "w": 150,
+       "resize": "crop",
+       "h": 150
+      },
+      "small": {
+       "w": 340,
+       "resize": "fit",
+       "h": 170
+      }
+     },
+     "url": "http://t.co/q6ZTO1btXh",
+     "media_url_https": "https://pbs.twimg.com/media/CMSzWJbUYAEf685.jpg",
+     "type": "photo",
+     "source_status_id": 631827041395019777
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      3,
+      17
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/CIJHhEVHZ4",
+     "indices": [
+      112,
+      134
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 3,
+  "user_screen_name": "katapavlov",
+  "date": "2015-08-13 15:30:29",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     56,
+     64
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     92,
+     111
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     3,
+     17
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "631850316976287749",
+  "urls": [
+   {
+    "url": "http://t.co/CIJHhEVHZ4",
+    "indices": [
+     112,
+     134
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+   "follow_request_sent": false,
+   "screen_name": "katapavlov",
+   "name": "Kata",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/632232457698476032/_osJiyCT_normal.jpg",
+   "following": false,
+   "profile_background_color": "EDECE9",
+   "default_profile": false,
+   "favourites_count": 387,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/632232457698476032/_osJiyCT_normal.jpg",
+   "profile_sidebar_fill_color": "E3E2DE",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 30284531,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/30284531/1439571134",
+   "url": null,
+   "notifications": false,
+   "created_at": "Fri Apr 10 18:56:04 +0000 2009",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "634047",
+   "time_zone": "Eastern Time (US & Canada)",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "Manchester, NH",
+   "profile_background_tile": true,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "",
+   "listed_count": 7,
+   "statuses_count": 786,
+   "followers_count": 69,
+   "profile_sidebar_border_color": "D3D2CF",
+   "id_str": "30284531",
+   "utc_offset": -14400,
+   "profile_link_color": "088253",
+   "geo_enabled": false,
+   "friends_count": 115,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 0,
+  "reply_to": null,
+  "text": "RT @consultcollab: Collab is a five-time honoree of the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/CIJHhEVHZ4 http\u2026"
+ },
+ "631926414082764800": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      58,
+      66
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      94,
+      113
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      13,
+      27
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/guFwVQSboG",
+     "indices": [
+      114,
+      136
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 0,
+  "user_screen_name": "TheBergler",
+  "date": "2015-08-13 20:32:52",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     58,
+     66
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     94,
+     113
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     13,
+     27
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "631926414082764800",
+  "urls": [
+   {
+    "url": "http://t.co/guFwVQSboG",
+    "indices": [
+     114,
+     136
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "follow_request_sent": false,
+   "screen_name": "TheBergler",
+   "name": "Bill Berg",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1827735772/hJ5AdaEQ_normal",
+   "following": false,
+   "profile_background_color": "C0DEED",
+   "default_profile": true,
+   "favourites_count": 4,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1827735772/hJ5AdaEQ_normal",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 214972016,
+   "url": "http://t.co/K2MB9PjFjU",
+   "notifications": false,
+   "created_at": "Fri Nov 12 17:49:05 +0000 2010",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": null,
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/K2MB9PjFjU",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "wisconsinprephockey.net",
+       "expanded_url": "http://www.wisconsinprephockey.net"
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "Antigo, WI",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "Fat old man",
+   "listed_count": 1,
+   "statuses_count": 389,
+   "followers_count": 58,
+   "profile_sidebar_border_color": "C0DEED",
+   "id_str": "214972016",
+   "utc_offset": null,
+   "profile_link_color": "0084B4",
+   "geo_enabled": false,
+   "friends_count": 37,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 2,
+  "reply_to": null,
+  "text": "My employer, @consultcollab is a five-time honoree of the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/guFwVQSboG"
+ },
+ "631866084673634304": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      49,
+      57
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      85,
+      104
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      24,
+      38
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/j5yCVlkJbV",
+     "indices": [
+      105,
+      127
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 0,
+  "user_screen_name": "williams1jm",
+  "date": "2015-08-13 16:33:08",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     49,
+     57
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     85,
+     104
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     24,
+     38
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "631866084673634304",
+  "urls": [
+   {
+    "url": "http://t.co/j5yCVlkJbV",
+    "indices": [
+     105,
+     127
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "follow_request_sent": false,
+   "screen_name": "williams1jm",
+   "name": "John Williams",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/449512500133130240/LhGeWV44_normal.png",
+   "following": false,
+   "profile_background_color": "C0DEED",
+   "default_profile": true,
+   "favourites_count": 464,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/449512500133130240/LhGeWV44_normal.png",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 38157205,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/38157205/1416345195",
+   "url": "http://t.co/2mMsLorvx5",
+   "notifications": false,
+   "created_at": "Wed May 06 11:14:58 +0000 2009",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": "Atlantic Time (Canada)",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/2mMsLorvx5",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "collaborative.com",
+       "expanded_url": "http://collaborative.com"
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "Burlington, MA",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "CSO and SVP of Services at @consultcollab, also a pioneer and expert in the area of domestic or rural sourcing",
+   "listed_count": 26,
+   "statuses_count": 504,
+   "followers_count": 167,
+   "profile_sidebar_border_color": "C0DEED",
+   "id_str": "38157205",
+   "utc_offset": -10800,
+   "profile_link_color": "0084B4",
+   "geo_enabled": true,
+   "friends_count": 312,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 2,
+  "reply_to": null,
+  "text": "Now a five-year honoree @consultcollab makes the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/j5yCVlkJbV"
+ },
+ "631851222769795073": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      56,
+      64
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      92,
+      111
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      11,
+      25
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/Rrk3bYF7Vg",
+     "indices": [
+      112,
+      134
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 0,
+  "user_screen_name": "Callan1976",
+  "date": "2015-08-13 15:34:05",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     56,
+     64
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     92,
+     111
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     11,
+     25
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "631851222769795073",
+  "urls": [
+   {
+    "url": "http://t.co/Rrk3bYF7Vg",
+    "indices": [
+     112,
+     134
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "follow_request_sent": false,
+   "screen_name": "Callan1976",
+   "name": "Craig Schuster",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+   "following": false,
+   "profile_background_color": "000000",
+   "default_profile": false,
+   "favourites_count": 0,
+   "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+   "profile_sidebar_fill_color": "000000",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 1355454505,
+   "url": null,
+   "notifications": false,
+   "created_at": "Mon Apr 15 22:00:43 +0000 2013",
+   "contributors_enabled": false,
+   "default_profile_image": true,
+   "profile_text_color": "000000",
+   "time_zone": null,
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "Wisconsin, USA",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": false,
+   "has_extended_profile": false,
+   "description": "",
+   "listed_count": 0,
+   "statuses_count": 1,
+   "followers_count": 10,
+   "profile_sidebar_border_color": "000000",
+   "id_str": "1355454505",
+   "utc_offset": null,
+   "profile_link_color": "4A913C",
+   "geo_enabled": true,
+   "friends_count": 8,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 3,
+  "reply_to": null,
+  "text": "Proud that @consultcollab is a five-time honoree of the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/Rrk3bYF7Vg"
+ },
+ "632233007110295552": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      16,
+      32
+     ],
+     "text": "flashbackfriday"
+    },
+    {
+     "indices": [
+      77,
+      94
+     ],
+     "text": "bestplacestowork"
+    },
+    {
+     "indices": [
+      95,
+      114
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "media": [
+    {
+     "source_user_id_str": "30284531",
+     "expanded_url": "http://twitter.com/katapavlov/status/632228418520682500/photo/1",
+     "indices": [
+      124,
+      140
+     ],
+     "source_status_id_str": "632228418520682500",
+     "source_user_id": 30284531,
+     "media_url": "http://pbs.twimg.com/media/CMYgZWFW8AAXttV.jpg",
+     "display_url": "pic.twitter.com/Yf0XCWKoqu",
+     "id_str": "632228417489006592",
+     "id": 632228417489006592,
+     "sizes": {
+      "large": {
+       "w": 1000,
+       "resize": "fit",
+       "h": 1000
+      },
+      "medium": {
+       "w": 600,
+       "resize": "fit",
+       "h": 600
+      },
+      "small": {
+       "w": 340,
+       "resize": "fit",
+       "h": 340
+      },
+      "thumb": {
+       "w": 150,
+       "resize": "crop",
+       "h": 150
+      }
+     },
+     "url": "http://t.co/Yf0XCWKoqu",
+     "media_url_https": "https://pbs.twimg.com/media/CMYgZWFW8AAXttV.jpg",
+     "type": "photo",
+     "source_status_id": 632228418520682500
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      3,
+      14
+     ],
+     "screen_name": "katapavlov",
+     "id": 30284531,
+     "name": "Kata",
+     "id_str": "30284531"
+    },
+    {
+     "indices": [
+      48,
+      62
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    },
+    {
+     "indices": [
+      115,
+      123
+     ],
+     "screen_name": "torik57",
+     "id": 623374671,
+     "name": "Tori Kuketz",
+     "id_str": "623374671"
+    }
+   ],
+   "urls": [],
+   "symbols": []
+  },
+  "retweet_count": 2,
+  "user_screen_name": "efeatherston",
+  "date": "2015-08-14 16:51:09",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     16,
+     32
+    ],
+    "text": "flashbackfriday"
+   },
+   {
+    "indices": [
+     77,
+     94
+    ],
+    "text": "bestplacestowork"
+   },
+   {
+    "indices": [
+     95,
+     114
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     3,
+     14
+    ],
+    "screen_name": "katapavlov",
+    "id": 30284531,
+    "name": "Kata",
+    "id_str": "30284531"
+   },
+   {
+    "indices": [
+     48,
+     62
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   },
+   {
+    "indices": [
+     115,
+     123
+    ],
+    "screen_name": "torik57",
+    "id": 623374671,
+    "name": "Tori Kuketz",
+    "id_str": "623374671"
+   }
+  ],
+  "id_str": "632233007110295552",
+  "urls": [],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "follow_request_sent": false,
+   "screen_name": "efeatherston",
+   "name": "Ed Featherston",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000425113182/8118df59baa04118c90dabceb8ffd107_normal.jpeg",
+   "following": false,
+   "profile_background_color": "C0DEED",
+   "default_profile": true,
+   "favourites_count": 3331,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000425113182/8118df59baa04118c90dabceb8ffd107_normal.jpeg",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 152084906,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/152084906/1433435636",
+   "url": "http://t.co/onf9IpwnUR",
+   "notifications": false,
+   "created_at": "Sat Jun 05 01:38:42 +0000 2010",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": "Atlantic Time (Canada)",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/onf9IpwnUR",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "collaborative.com/blog",
+       "expanded_url": "http://collaborative.com/blog"
+      }
+     ]
+    },
+    "description": {
+     "urls": [
+      {
+       "url": "http://t.co/7lCSlaVgZh",
+       "indices": [
+        114,
+        136
+       ],
+       "display_url": "edfeatherston.sys-con.com",
+       "expanded_url": "http://edfeatherston.sys-con.com"
+      },
+      {
+       "url": "http://t.co/cNoWcvnilG",
+       "indices": [
+        138,
+        160
+       ],
+       "display_url": "insights.wired.com/profile/EdFeat\u2026",
+       "expanded_url": "http://insights.wired.com/profile/EdFeatherston"
+      }
+     ]
+    }
+   },
+   "location": "Burlington, MA",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "Enterprise Architect @ Collaborative Consulting (@consultCollab)\r\n#cloud #cloudcomputing #entarch\r\ntweets my own\r\nhttp://t.co/7lCSlaVgZh\r\nhttp://t.co/cNoWcvnilG",
+   "listed_count": 183,
+   "statuses_count": 12168,
+   "followers_count": 2051,
+   "profile_sidebar_border_color": "C0DEED",
+   "id_str": "152084906",
+   "utc_offset": -10800,
+   "profile_link_color": "0084B4",
+   "geo_enabled": true,
+   "friends_count": 2034,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 0,
+  "reply_to": null,
+  "text": "RT @katapavlov: #flashbackfriday another reason @consultcollab is one of the #bestplacestowork #WeAreCollaborative @torik57 http://t.co/Yf0\u2026"
+ },
+ "632019822365306880": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      50,
+      58
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      68,
+      87
+     ],
+     "text": "wearecollaborative"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      16,
+      30
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [],
+   "symbols": []
+  },
+  "retweet_count": 0,
+  "user_screen_name": "JJKazakoffEigen",
+  "date": "2015-08-14 02:44:02",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     50,
+     58
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     68,
+     87
+    ],
+    "text": "wearecollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     16,
+     30
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "632019822365306880",
+  "urls": [],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "follow_request_sent": false,
+   "screen_name": "JJKazakoffEigen",
+   "name": "JJ",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/2833586184/898a4f56428c4bcf59b31a727a7126e0_normal.jpeg",
+   "following": false,
+   "profile_background_color": "C0DEED",
+   "default_profile": true,
+   "favourites_count": 426,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/2833586184/898a4f56428c4bcf59b31a727a7126e0_normal.jpeg",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 246964006,
+   "url": "http://t.co/IIZD1dNXEx",
+   "notifications": false,
+   "created_at": "Thu Feb 03 20:32:54 +0000 2011",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": "Eastern Time (US & Canada)",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/IIZD1dNXEx",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "hockeylytics.blogspot.com",
+       "expanded_url": "http://hockeylytics.blogspot.com"
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "Boston, MA",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "Father of 2, Husband of 1, INTP. Staff Consultant @consultcollab.  @startupinst, @Bentleyu alum, @AmericanUalum. Learning #python, #sql.",
+   "listed_count": 11,
+   "statuses_count": 1885,
+   "followers_count": 198,
+   "profile_sidebar_border_color": "C0DEED",
+   "id_str": "246964006",
+   "utc_offset": -14400,
+   "profile_link_color": "0084B4",
+   "geo_enabled": false,
+   "friends_count": 195,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 2,
+  "reply_to": null,
+  "text": "Really proud of @consultcollab for being a 5 time #Inc5000 honoree@ #wearecollaborative"
+ },
+ "632148353728552960": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      56,
+      64
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      92,
+      111
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "media": [
+    {
+     "source_user_id_str": "1262654858",
+     "expanded_url": "http://twitter.com/consultcollab/status/631827041395019777/photo/1",
+     "indices": [
+      139,
+      140
+     ],
+     "source_status_id_str": "631827041395019777",
+     "source_user_id": 1262654858,
+     "media_url": "http://pbs.twimg.com/media/CMSzWJbUYAEf685.jpg",
+     "display_url": "pic.twitter.com/q6ZTO1btXh",
+     "id_str": "631827040807706625",
+     "id": 631827040807706625,
+     "sizes": {
+      "large": {
+       "w": 1024,
+       "resize": "fit",
+       "h": 512
+      },
+      "medium": {
+       "w": 600,
+       "resize": "fit",
+       "h": 300
+      },
+      "thumb": {
+       "w": 150,
+       "resize": "crop",
+       "h": 150
+      },
+      "small": {
+       "w": 340,
+       "resize": "fit",
+       "h": 170
+      }
+     },
+     "url": "http://t.co/q6ZTO1btXh",
+     "media_url_https": "https://pbs.twimg.com/media/CMSzWJbUYAEf685.jpg",
+     "type": "photo",
+     "source_status_id": 631827041395019777
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      3,
+      17
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/CIJHhEVHZ4",
+     "indices": [
+      112,
+      134
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 3,
+  "user_screen_name": "TheAinJAR",
+  "date": "2015-08-14 11:14:46",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     56,
+     64
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     92,
+     111
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     3,
+     17
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "632148353728552960",
+  "urls": [
+   {
+    "url": "http://t.co/CIJHhEVHZ4",
+    "indices": [
+     112,
+     134
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "follow_request_sent": false,
+   "screen_name": "TheAinJAR",
+   "name": "Andy @ JAR",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/575633638546665472/otcbG3eg_normal.jpeg",
+   "following": false,
+   "profile_background_color": "C0DEED",
+   "default_profile": true,
+   "favourites_count": 24,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/575633638546665472/otcbG3eg_normal.jpeg",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 2977053441,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2977053441/1425982895",
+   "url": "http://t.co/D2WDSBCraV",
+   "notifications": false,
+   "created_at": "Tue Jan 13 20:42:13 +0000 2015",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": null,
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/D2WDSBCraV",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "jarhotsauce.com",
+       "expanded_url": "http://www.jarhotsauce.com"
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "Wisconsin",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "super eclectic sponge. husband, father, entrepreneur, strategist, visionary, adventurer, consultant, DI coach, foodie, small business addict, fun loving dude",
+   "listed_count": 1,
+   "statuses_count": 86,
+   "followers_count": 18,
+   "profile_sidebar_border_color": "C0DEED",
+   "id_str": "2977053441",
+   "utc_offset": null,
+   "profile_link_color": "0084B4",
+   "geo_enabled": false,
+   "friends_count": 53,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 0,
+  "reply_to": null,
+  "text": "RT @consultcollab: Collab is a five-time honoree of the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/CIJHhEVHZ4 http\u2026"
+ },
+ "632187981831340032": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      71,
+      79
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      107,
+      126
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      3,
+      12
+     ],
+     "screen_name": "zslayton",
+     "id": 303956678,
+     "name": "Zach Slayton",
+     "id_str": "303956678"
+    },
+    {
+     "indices": [
+      33,
+      47
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/F9sJ0ILS9f",
+     "indices": [
+      127,
+      140
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 3,
+  "user_screen_name": "consultcollab",
+  "date": "2015-08-14 13:52:15",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     71,
+     79
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     107,
+     126
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     3,
+     12
+    ],
+    "screen_name": "zslayton",
+    "id": 303956678,
+    "name": "Zach Slayton",
+    "id_str": "303956678"
+   },
+   {
+    "indices": [
+     33,
+     47
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "632187981831340032",
+  "urls": [
+   {
+    "url": "http://t.co/F9sJ0ILS9f",
+    "indices": [
+     127,
+     140
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095934586/0faa8f665924fcfdc1c2c1d726f4b679.jpeg",
+   "follow_request_sent": false,
+   "screen_name": "consultcollab",
+   "name": "Collaborative.com",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095934586/0faa8f665924fcfdc1c2c1d726f4b679.jpeg",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/3371951799/48722c2300531bd61425e6589589c99c_normal.png",
+   "following": false,
+   "profile_background_color": "C0DEED",
+   "default_profile": false,
+   "favourites_count": 769,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/3371951799/48722c2300531bd61425e6589589c99c_normal.png",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 1262654858,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262654858/1427735387",
+   "url": "http://t.co/jnV0rMDACa",
+   "notifications": false,
+   "created_at": "Tue Mar 12 19:02:29 +0000 2013",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": "Atlantic Time (Canada)",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/jnV0rMDACa",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "collaborative.com",
+       "expanded_url": "http://www.collaborative.com"
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "",
+   "profile_background_tile": true,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "Business advantage through the use of strategy and technology. Follow us for updates on thought leadership, case studies, blogs and webinars.",
+   "listed_count": 48,
+   "statuses_count": 1279,
+   "followers_count": 337,
+   "profile_sidebar_border_color": "FFFFFF",
+   "id_str": "1262654858",
+   "utc_offset": -10800,
+   "profile_link_color": "0084B4",
+   "geo_enabled": false,
+   "friends_count": 445,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 0,
+  "reply_to": null,
+  "text": "RT @zslayton: One for the thumb! @consultcollab is a 5x honoree of the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/\u2026"
+ },
+ "631897084698996737": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      56,
+      64
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      92,
+      111
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      11,
+      25
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/qNnbqgCC9D",
+     "indices": [
+      112,
+      134
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 0,
+  "user_screen_name": "jacobz_20",
+  "date": "2015-08-13 18:36:19",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     56,
+     64
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     92,
+     111
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     11,
+     25
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "631897084698996737",
+  "urls": [
+   {
+    "url": "http://t.co/qNnbqgCC9D",
+    "indices": [
+     112,
+     134
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+   "follow_request_sent": false,
+   "screen_name": "jacobz_20",
+   "name": "Jacob ZD Zimmerman",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1116647934/awesome_me_normal.jpg",
+   "following": false,
+   "profile_background_color": "1A1B1F",
+   "default_profile": false,
+   "favourites_count": 68,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116647934/awesome_me_normal.jpg",
+   "profile_sidebar_fill_color": "252429",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 170028438,
+   "url": null,
+   "notifications": false,
+   "created_at": "Fri Jul 23 19:32:01 +0000 2010",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "666666",
+   "time_zone": "Central Time (US & Canada)",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "I'm everywhere, like the wind.",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "",
+   "listed_count": 6,
+   "statuses_count": 715,
+   "followers_count": 47,
+   "profile_sidebar_border_color": "181A1E",
+   "id_str": "170028438",
+   "utc_offset": -18000,
+   "profile_link_color": "2FC2EF",
+   "geo_enabled": false,
+   "friends_count": 32,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 2,
+  "reply_to": null,
+  "text": "Proud that @consultcollab is a five-time honoree of the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/qNnbqgCC9D"
+ },
+ "632352008884887552": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      69,
+      77
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      105,
+      124
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      3,
+      11
+     ],
+     "screen_name": "WKuketz",
+     "id": 38009327,
+     "name": "Walter Kuketz",
+     "id_str": "38009327"
+    },
+    {
+     "indices": [
+      24,
+      38
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/ruErfGMAZI",
+     "indices": [
+      125,
+      140
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 4,
+  "user_screen_name": "DawnMarie_4_IT",
+  "date": "2015-08-15 00:44:02",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     69,
+     77
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     105,
+     124
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     3,
+     11
+    ],
+    "screen_name": "WKuketz",
+    "id": 38009327,
+    "name": "Walter Kuketz",
+    "id_str": "38009327"
+   },
+   {
+    "indices": [
+     24,
+     38
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "632352008884887552",
+  "urls": [
+   {
+    "url": "http://t.co/ruErfGMAZI",
+    "indices": [
+     125,
+     140
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "follow_request_sent": false,
+   "screen_name": "DawnMarie_4_IT",
+   "name": "Dawn Franco",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000503093090/5119d67596bd94a0152c1623b366c9ab_normal.jpeg",
+   "following": false,
+   "profile_background_color": "000000",
+   "default_profile": false,
+   "favourites_count": 0,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000503093090/5119d67596bd94a0152c1623b366c9ab_normal.jpeg",
+   "profile_sidebar_fill_color": "000000",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 1898404669,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898404669/1431711794",
+   "url": "http://t.co/VStn3k2eFH",
+   "notifications": false,
+   "created_at": "Mon Sep 23 20:46:21 +0000 2013",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "000000",
+   "time_zone": null,
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/VStn3k2eFH",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "authenticluau.com",
+       "expanded_url": "http://www.authenticluau.com"
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "Stevens Point, WI",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": false,
+   "has_extended_profile": false,
+   "description": "Collaborative CDSC rocks!, Moving to the cloud? Is it feasible for a tiny business? love data, plants & animals, love the country, love my sweet Maui man!",
+   "listed_count": 0,
+   "statuses_count": 13,
+   "followers_count": 7,
+   "profile_sidebar_border_color": "000000",
+   "id_str": "1898404669",
+   "utc_offset": null,
+   "profile_link_color": "4A913C",
+   "geo_enabled": false,
+   "friends_count": 21,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 0,
+  "reply_to": null,
+  "text": "RT @WKuketz: Proud that @consultcollab is a five-time honoree of the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/ru\u2026"
+ },
+ "632314681407877121": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      48,
+      55
+     ],
+     "text": "gc2020"
+    },
+    {
+     "indices": [
+      56,
+      75
+     ],
+     "text": "wearecollaborative"
+    }
+   ],
+   "media": [
+    {
+     "media_url": "http://pbs.twimg.com/media/CMZu2j0UsAATVw6.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/CMZu2j0UsAATVw6.jpg",
+     "display_url": "pic.twitter.com/Ao5wViZmTB",
+     "id_str": "632314681298825216",
+     "id": 632314681298825216,
+     "sizes": {
+      "large": {
+       "w": 640,
+       "resize": "fit",
+       "h": 480
+      },
+      "medium": {
+       "w": 600,
+       "resize": "fit",
+       "h": 450
+      },
+      "small": {
+       "w": 340,
+       "resize": "fit",
+       "h": 255
+      },
+      "thumb": {
+       "w": 150,
+       "resize": "crop",
+       "h": 150
+      }
+     },
+     "expanded_url": "http://twitter.com/FrancesMcRae2/status/632314681407877121/photo/1",
+     "url": "http://t.co/Ao5wViZmTB",
+     "indices": [
+      76,
+      98
+     ],
+     "type": "photo"
+    }
+   ],
+   "user_mentions": [],
+   "urls": [],
+   "symbols": []
+  },
+  "retweet_count": 0,
+  "user_screen_name": "FrancesMcRae2",
+  "date": "2015-08-14 22:15:42",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     48,
+     55
+    ],
+    "text": "gc2020"
+   },
+   {
+    "indices": [
+     56,
+     75
+    ],
+    "text": "wearecollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [],
+  "id_str": "632314681407877121",
+  "urls": [],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "follow_request_sent": false,
+   "screen_name": "FrancesMcRae2",
+   "name": "Frances McRae",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/560432185992171520/b2xDq6e-_normal.jpeg",
+   "following": true,
+   "profile_background_color": "C0DEED",
+   "default_profile": true,
+   "favourites_count": 3,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/560432185992171520/b2xDq6e-_normal.jpeg",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 2987550850,
+   "url": null,
+   "notifications": false,
+   "created_at": "Tue Jan 20 16:31:19 +0000 2015",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": null,
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "Ottawa",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "Public servant in the Government of Canada, proud and passionate about serving Canadians",
+   "listed_count": 2,
+   "statuses_count": 46,
+   "followers_count": 102,
+   "profile_sidebar_border_color": "C0DEED",
+   "id_str": "2987550850",
+   "utc_offset": null,
+   "profile_link_color": "0084B4",
+   "geo_enabled": false,
+   "friends_count": 45,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 2,
+  "reply_to": null,
+  "text": "Had a little shindig for our new roomies today! #gc2020 #wearecollaborative http://t.co/Ao5wViZmTB"
+ },
+ "632147482810687488": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      71,
+      79
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      107,
+      126
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      3,
+      12
+     ],
+     "screen_name": "zslayton",
+     "id": 303956678,
+     "name": "Zach Slayton",
+     "id_str": "303956678"
+    },
+    {
+     "indices": [
+      33,
+      47
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/F9sJ0ILS9f",
+     "indices": [
+      127,
+      140
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 3,
+  "user_screen_name": "TheAinJAR",
+  "date": "2015-08-14 11:11:19",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     71,
+     79
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     107,
+     126
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     3,
+     12
+    ],
+    "screen_name": "zslayton",
+    "id": 303956678,
+    "name": "Zach Slayton",
+    "id_str": "303956678"
+   },
+   {
+    "indices": [
+     33,
+     47
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "632147482810687488",
+  "urls": [
+   {
+    "url": "http://t.co/F9sJ0ILS9f",
+    "indices": [
+     127,
+     140
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "follow_request_sent": false,
+   "screen_name": "TheAinJAR",
+   "name": "Andy @ JAR",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/575633638546665472/otcbG3eg_normal.jpeg",
+   "following": false,
+   "profile_background_color": "C0DEED",
+   "default_profile": true,
+   "favourites_count": 24,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/575633638546665472/otcbG3eg_normal.jpeg",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 2977053441,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2977053441/1425982895",
+   "url": "http://t.co/D2WDSBCraV",
+   "notifications": false,
+   "created_at": "Tue Jan 13 20:42:13 +0000 2015",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": null,
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/D2WDSBCraV",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "jarhotsauce.com",
+       "expanded_url": "http://www.jarhotsauce.com"
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "Wisconsin",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "super eclectic sponge. husband, father, entrepreneur, strategist, visionary, adventurer, consultant, DI coach, foodie, small business addict, fun loving dude",
+   "listed_count": 1,
+   "statuses_count": 86,
+   "followers_count": 18,
+   "profile_sidebar_border_color": "C0DEED",
+   "id_str": "2977053441",
+   "utc_offset": null,
+   "profile_link_color": "0084B4",
+   "geo_enabled": false,
+   "friends_count": 53,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 0,
+  "reply_to": null,
+  "text": "RT @zslayton: One for the thumb! @consultcollab is a 5x honoree of the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/\u2026"
+ },
+ "631911700669853696": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      56,
+      64
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      92,
+      111
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      11,
+      25
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/NuqiHpLBG2",
+     "indices": [
+      112,
+      134
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 0,
+  "user_screen_name": "jlconsig",
+  "date": "2015-08-13 19:34:24",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     56,
+     64
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     92,
+     111
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     11,
+     25
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "631911700669853696",
+  "urls": [
+   {
+    "url": "http://t.co/NuqiHpLBG2",
+    "indices": [
+     112,
+     134
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "follow_request_sent": false,
+   "screen_name": "jlconsig",
+   "name": "Joe Consigli",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1328467689/pic_normal.JPG",
+   "following": false,
+   "profile_background_color": "C0DEED",
+   "default_profile": true,
+   "favourites_count": 4,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328467689/pic_normal.JPG",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 278508695,
+   "url": "http://t.co/w0T5OT6tLL",
+   "notifications": false,
+   "created_at": "Thu Apr 07 12:21:54 +0000 2011",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": "Eastern Time (US & Canada)",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/w0T5OT6tLL",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "collaborative.com",
+       "expanded_url": "http://www.collaborative.com"
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "New England",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "Sales Executive @consultcollab- New Business Development - New England. Boston Sports, Notre Dame Football, Stonehill College",
+   "listed_count": 1,
+   "statuses_count": 67,
+   "followers_count": 80,
+   "profile_sidebar_border_color": "C0DEED",
+   "id_str": "278508695",
+   "utc_offset": -14400,
+   "profile_link_color": "0084B4",
+   "geo_enabled": false,
+   "friends_count": 146,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 7,
+  "reply_to": null,
+  "text": "Proud that @consultcollab is a five-time honoree of the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/NuqiHpLBG2"
+ },
+ "631850662846967809": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      69,
+      77
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      105,
+      124
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      3,
+      11
+     ],
+     "screen_name": "WKuketz",
+     "id": 38009327,
+     "name": "Walter Kuketz",
+     "id_str": "38009327"
+    },
+    {
+     "indices": [
+      24,
+      38
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/ruErfGMAZI",
+     "indices": [
+      125,
+      140
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 4,
+  "user_screen_name": "consultcollab",
+  "date": "2015-08-13 15:31:51",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     69,
+     77
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     105,
+     124
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     3,
+     11
+    ],
+    "screen_name": "WKuketz",
+    "id": 38009327,
+    "name": "Walter Kuketz",
+    "id_str": "38009327"
+   },
+   {
+    "indices": [
+     24,
+     38
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "631850662846967809",
+  "urls": [
+   {
+    "url": "http://t.co/ruErfGMAZI",
+    "indices": [
+     125,
+     140
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095934586/0faa8f665924fcfdc1c2c1d726f4b679.jpeg",
+   "follow_request_sent": false,
+   "screen_name": "consultcollab",
+   "name": "Collaborative.com",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095934586/0faa8f665924fcfdc1c2c1d726f4b679.jpeg",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/3371951799/48722c2300531bd61425e6589589c99c_normal.png",
+   "following": false,
+   "profile_background_color": "C0DEED",
+   "default_profile": false,
+   "favourites_count": 769,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/3371951799/48722c2300531bd61425e6589589c99c_normal.png",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 1262654858,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262654858/1427735387",
+   "url": "http://t.co/jnV0rMDACa",
+   "notifications": false,
+   "created_at": "Tue Mar 12 19:02:29 +0000 2013",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": "Atlantic Time (Canada)",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/jnV0rMDACa",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "collaborative.com",
+       "expanded_url": "http://www.collaborative.com"
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "",
+   "profile_background_tile": true,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "Business advantage through the use of strategy and technology. Follow us for updates on thought leadership, case studies, blogs and webinars.",
+   "listed_count": 48,
+   "statuses_count": 1279,
+   "followers_count": 337,
+   "profile_sidebar_border_color": "FFFFFF",
+   "id_str": "1262654858",
+   "utc_offset": -10800,
+   "profile_link_color": "0084B4",
+   "geo_enabled": false,
+   "friends_count": 445,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 0,
+  "reply_to": null,
+  "text": "RT @WKuketz: Proud that @consultcollab is a five-time honoree of the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/ru\u2026"
+ },
+ "630792624245481472": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      107,
+      126
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "http://t.co/GMsDdD1R6I",
+     "indices": [
+      84,
+      106
+     ],
+     "display_url": "ow.ly/QAiwc",
+     "expanded_url": "http://ow.ly/QAiwc"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 1,
+  "user_screen_name": "School_GC",
+  "date": "2015-08-10 17:27:35",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     107,
+     126
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [],
+  "id_str": "630792624245481472",
+  "urls": [
+   {
+    "url": "http://t.co/GMsDdD1R6I",
+    "indices": [
+     84,
+     106
+    ],
+    "display_url": "ow.ly/QAiwc",
+    "expanded_url": "http://ow.ly/QAiwc"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/808051700/d5de544dc92e25fcba458d87cfe312d0.png",
+   "follow_request_sent": false,
+   "screen_name": "School_GC",
+   "name": "Canada School of PS",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/808051700/d5de544dc92e25fcba458d87cfe312d0.png",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/629721377268875265/E7HAazLp_normal.png",
+   "following": true,
+   "profile_background_color": "4C504A",
+   "default_profile": false,
+   "favourites_count": 3,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/629721377268875265/E7HAazLp_normal.png",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 588392113,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/588392113/1362684077",
+   "url": "http://t.co/Xu8D96YBMm",
+   "notifications": false,
+   "created_at": "Wed May 23 16:01:39 +0000 2012",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": "Eastern Time (US & Canada)",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/Xu8D96YBMm",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "csps-efpc.gc.ca",
+       "expanded_url": "http://www.csps-efpc.gc.ca"
+      }
+     ]
+    },
+    "description": {
+     "urls": [
+      {
+       "url": "http://t.co/T81tGp0L1j",
+       "indices": [
+        94,
+        116
+       ],
+       "display_url": "ow.ly/QwO0D",
+       "expanded_url": "http://ow.ly/QwO0D"
+      }
+     ]
+    }
+   },
+   "location": "Canada",
+   "profile_background_tile": true,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "The Canada School of Public Service - Your partner in learning. For our Twitter Terms of Use: http://t.co/T81tGp0L1j. En francais: @Ecole_GC.",
+   "listed_count": 36,
+   "statuses_count": 1565,
+   "followers_count": 1636,
+   "profile_sidebar_border_color": "000000",
+   "id_str": "588392113",
+   "utc_offset": -14400,
+   "profile_link_color": "005261",
+   "geo_enabled": false,
+   "friends_count": 171,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 1,
+  "reply_to": null,
+  "text": "HR practitioners: Share your ideas, best practices and vision for 2020 on Sept. 23. http://t.co/GMsDdD1R6I #WeAreCollaborative"
+ },
+ "632228418520682500": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      0,
+      16
+     ],
+     "text": "flashbackfriday"
+    },
+    {
+     "indices": [
+      61,
+      78
+     ],
+     "text": "bestplacestowork"
+    },
+    {
+     "indices": [
+      79,
+      98
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "media": [
+    {
+     "media_url": "http://pbs.twimg.com/media/CMYgZWFW8AAXttV.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/CMYgZWFW8AAXttV.jpg",
+     "display_url": "pic.twitter.com/Yf0XCWKoqu",
+     "id_str": "632228417489006592",
+     "id": 632228417489006592,
+     "sizes": {
+      "large": {
+       "w": 1000,
+       "resize": "fit",
+       "h": 1000
+      },
+      "medium": {
+       "w": 600,
+       "resize": "fit",
+       "h": 600
+      },
+      "small": {
+       "w": 340,
+       "resize": "fit",
+       "h": 340
+      },
+      "thumb": {
+       "w": 150,
+       "resize": "crop",
+       "h": 150
+      }
+     },
+     "expanded_url": "http://twitter.com/katapavlov/status/632228418520682500/photo/1",
+     "url": "http://t.co/Yf0XCWKoqu",
+     "indices": [
+      108,
+      130
+     ],
+     "type": "photo"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      32,
+      46
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    },
+    {
+     "indices": [
+      99,
+      107
+     ],
+     "screen_name": "torik57",
+     "id": 623374671,
+     "name": "Tori Kuketz",
+     "id_str": "623374671"
+    }
+   ],
+   "urls": [],
+   "symbols": []
+  },
+  "retweet_count": 2,
+  "user_screen_name": "katapavlov",
+  "date": "2015-08-14 16:32:55",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     0,
+     16
+    ],
+    "text": "flashbackfriday"
+   },
+   {
+    "indices": [
+     61,
+     78
+    ],
+    "text": "bestplacestowork"
+   },
+   {
+    "indices": [
+     79,
+     98
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     32,
+     46
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   },
+   {
+    "indices": [
+     99,
+     107
+    ],
+    "screen_name": "torik57",
+    "id": 623374671,
+    "name": "Tori Kuketz",
+    "id_str": "623374671"
+   }
+  ],
+  "id_str": "632228418520682500",
+  "urls": [],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+   "follow_request_sent": false,
+   "screen_name": "katapavlov",
+   "name": "Kata",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/632232457698476032/_osJiyCT_normal.jpg",
+   "following": false,
+   "profile_background_color": "EDECE9",
+   "default_profile": false,
+   "favourites_count": 387,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/632232457698476032/_osJiyCT_normal.jpg",
+   "profile_sidebar_fill_color": "E3E2DE",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 30284531,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/30284531/1439571134",
+   "url": null,
+   "notifications": false,
+   "created_at": "Fri Apr 10 18:56:04 +0000 2009",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "634047",
+   "time_zone": "Eastern Time (US & Canada)",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "Manchester, NH",
+   "profile_background_tile": true,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "",
+   "listed_count": 7,
+   "statuses_count": 786,
+   "followers_count": 69,
+   "profile_sidebar_border_color": "D3D2CF",
+   "id_str": "30284531",
+   "utc_offset": -14400,
+   "profile_link_color": "088253",
+   "geo_enabled": false,
+   "friends_count": 115,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 2,
+  "reply_to": null,
+  "text": "#flashbackfriday another reason @consultcollab is one of the #bestplacestowork #WeAreCollaborative @torik57 http://t.co/Yf0XCWKoqu"
+ },
+ "631857259442774017": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      56,
+      64
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      92,
+      111
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "user_mentions": [
+    {
+     "indices": [
+      11,
+      25
+     ],
+     "screen_name": "consultcollab",
+     "id": 1262654858,
+     "name": "Collaborative.com",
+     "id_str": "1262654858"
+    }
+   ],
+   "urls": [
+    {
+     "url": "http://t.co/PE1rkksSv6",
+     "indices": [
+      112,
+      134
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 0,
+  "user_screen_name": "mollyk8776",
+  "date": "2015-08-13 15:58:04",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     56,
+     64
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     92,
+     111
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [
+   {
+    "indices": [
+     11,
+     25
+    ],
+    "screen_name": "consultcollab",
+    "id": 1262654858,
+    "name": "Collaborative.com",
+    "id_str": "1262654858"
+   }
+  ],
+  "id_str": "631857259442774017",
+  "urls": [
+   {
+    "url": "http://t.co/PE1rkksSv6",
+    "indices": [
+     112,
+     134
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "follow_request_sent": false,
+   "screen_name": "mollyk8776",
+   "name": "Molly King",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/2371508645/j6g1opvb1g2344ov2t5h_normal.jpeg",
+   "following": false,
+   "profile_background_color": "C0DEED",
+   "default_profile": true,
+   "favourites_count": 5,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/2371508645/j6g1opvb1g2344ov2t5h_normal.jpeg",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 360313846,
+   "url": null,
+   "notifications": false,
+   "created_at": "Tue Aug 23 01:02:52 +0000 2011",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": null,
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "Wausau, WI",
+   "profile_background_tile": false,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "",
+   "listed_count": 0,
+   "statuses_count": 10,
+   "followers_count": 13,
+   "profile_sidebar_border_color": "C0DEED",
+   "id_str": "360313846",
+   "utc_offset": null,
+   "profile_link_color": "0084B4",
+   "geo_enabled": false,
+   "friends_count": 67,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 3,
+  "reply_to": null,
+  "text": "Proud that @consultcollab is a five-time honoree of the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/PE1rkksSv6"
+ },
+ "631827041395019777": {
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      37,
+      45
+     ],
+     "text": "Inc5000"
+    },
+    {
+     "indices": [
+      73,
+      92
+     ],
+     "text": "WeAreCollaborative"
+    }
+   ],
+   "media": [
+    {
+     "media_url": "http://pbs.twimg.com/media/CMSzWJbUYAEf685.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/CMSzWJbUYAEf685.jpg",
+     "display_url": "pic.twitter.com/q6ZTO1btXh",
+     "id_str": "631827040807706625",
+     "id": 631827040807706625,
+     "sizes": {
+      "large": {
+       "w": 1024,
+       "resize": "fit",
+       "h": 512
+      },
+      "medium": {
+       "w": 600,
+       "resize": "fit",
+       "h": 300
+      },
+      "thumb": {
+       "w": 150,
+       "resize": "crop",
+       "h": 150
+      },
+      "small": {
+       "w": 340,
+       "resize": "fit",
+       "h": 170
+      }
+     },
+     "expanded_url": "http://twitter.com/consultcollab/status/631827041395019777/photo/1",
+     "url": "http://t.co/q6ZTO1btXh",
+     "indices": [
+      116,
+      138
+     ],
+     "type": "photo"
+    }
+   ],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "http://t.co/CIJHhEVHZ4",
+     "indices": [
+      93,
+      115
+     ],
+     "display_url": "bit.ly/1Mm3Pbk",
+     "expanded_url": "http://bit.ly/1Mm3Pbk"
+    }
+   ],
+   "symbols": []
+  },
+  "retweet_count": 3,
+  "user_screen_name": "consultcollab",
+  "date": "2015-08-13 13:58:00",
+  "quoted_status": false,
+  "coordinates": null,
+  "lang": "en",
+  "quoted_status_id_str": null,
+  "hashtags": [
+   {
+    "indices": [
+     37,
+     45
+    ],
+    "text": "Inc5000"
+   },
+   {
+    "indices": [
+     73,
+     92
+    ],
+    "text": "WeAreCollaborative"
+   }
+  ],
+  "reply_to_tweet": null,
+  "user_mentions": [],
+  "id_str": "631827041395019777",
+  "urls": [
+   {
+    "url": "http://t.co/CIJHhEVHZ4",
+    "indices": [
+     93,
+     115
+    ],
+    "display_url": "bit.ly/1Mm3Pbk",
+    "expanded_url": "http://bit.ly/1Mm3Pbk"
+   }
+  ],
+  "user": {
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095934586/0faa8f665924fcfdc1c2c1d726f4b679.jpeg",
+   "follow_request_sent": false,
+   "screen_name": "consultcollab",
+   "name": "Collaborative.com",
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095934586/0faa8f665924fcfdc1c2c1d726f4b679.jpeg",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/3371951799/48722c2300531bd61425e6589589c99c_normal.png",
+   "following": false,
+   "profile_background_color": "C0DEED",
+   "default_profile": false,
+   "favourites_count": 769,
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/3371951799/48722c2300531bd61425e6589589c99c_normal.png",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "id": 1262654858,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262654858/1427735387",
+   "url": "http://t.co/jnV0rMDACa",
+   "notifications": false,
+   "created_at": "Tue Mar 12 19:02:29 +0000 2013",
+   "contributors_enabled": false,
+   "default_profile_image": false,
+   "profile_text_color": "333333",
+   "time_zone": "Atlantic Time (Canada)",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/jnV0rMDACa",
+       "indices": [
+        0,
+        22
+       ],
+       "display_url": "collaborative.com",
+       "expanded_url": "http://www.collaborative.com"
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "location": "",
+   "profile_background_tile": true,
+   "protected": false,
+   "profile_use_background_image": true,
+   "has_extended_profile": false,
+   "description": "Business advantage through the use of strategy and technology. Follow us for updates on thought leadership, case studies, blogs and webinars.",
+   "listed_count": 48,
+   "statuses_count": 1279,
+   "followers_count": 337,
+   "profile_sidebar_border_color": "FFFFFF",
+   "id_str": "1262654858",
+   "utc_offset": -10800,
+   "profile_link_color": "0084B4",
+   "geo_enabled": false,
+   "friends_count": 445,
+   "verified": false,
+   "lang": "en"
+  },
+  "favorite_count": 6,
+  "reply_to": null,
+  "text": "Collab is a five-time honoree of the #Inc5000 fastest growing companies! #WeAreCollaborative http://t.co/CIJHhEVHZ4 http://t.co/q6ZTO1btXh"
+ }
+}
