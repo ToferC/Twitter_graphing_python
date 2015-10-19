@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"tw",
+				"tweets	(statement)"
+			],
+			[
 				"is",
 				"is_quote_status"
 			],
@@ -26,10 +30,6 @@
 			[
 				"max",
 				"maxtweets	(param)"
-			],
-			[
-				"tw",
-				"tweetcount	(statement)"
 			],
 			[
 				"since",
@@ -520,73 +520,20 @@
 	"buffers":
 	[
 		{
-			"file": "py_twi.py",
+			"file": "stream_twitter.py",
 			"settings":
 			{
-				"buffer_size": 1752,
+				"buffer_size": 1857,
 				"line_ending": "Unix",
-				"name": "import twitter"
-			}
-		},
-		{
-			"file": "get_followers.py",
-			"settings":
-			{
-				"buffer_size": 6522,
-				"line_ending": "Unix",
-				"name": "import tweepy"
-			}
-		},
-		{
-			"file": "search_tweets.py",
-			"settings":
-			{
-				"buffer_size": 2458,
-				"line_ending": "Unix"
+				"name": "from tweepy import Stream"
 			}
 		},
 		{
 			"file": "search_twitter_to_json.py",
 			"settings":
 			{
-				"buffer_size": 4947,
+				"buffer_size": 4948,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "process_tweets.py",
-			"settings":
-			{
-				"buffer_size": 1469,
-				"line_ending": "Unix",
-				"name": "import nltk"
-			}
-		},
-		{
-			"file": "list_unfollowers.py",
-			"settings":
-			{
-				"buffer_size": 2063,
-				"line_ending": "Unix",
-				"name": "mport tweepy"
-			}
-		},
-		{
-			"file": "twitter_network_mod.py",
-			"settings":
-			{
-				"buffer_size": 951,
-				"line_ending": "Unix",
-				"name": "import glob"
-			}
-		},
-		{
-			"file": "visualize.py",
-			"settings":
-			{
-				"buffer_size": 1516,
-				"line_ending": "Unix",
-				"name": "import networkx as net"
 			}
 		}
 	],
@@ -683,12 +630,20 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/christopherallison/.virtualenvs/py_twi",
-		"/Users/christopherallison/.virtualenvs/py_twi/data",
-		"/Users/christopherallison/.virtualenvs/py_twi/results"
+		"/Users/christopherallison/.virtualenvs/py_twi"
 	],
 	"file_history":
 	[
+		"/Users/christopherallison/.virtualenvs/py_twi/visualize.py",
+		"/Users/christopherallison/.virtualenvs/py_twi/py_twi.py",
+		"/Users/christopherallison/.virtualenvs/py_twi/.gitignore",
+		"/Users/christopherallison/.virtualenvs/py_twi/search_twitter_to_json.py",
+		"/Users/christopherallison/.virtualenvs/py_twi/read_tweets.py",
+		"/Users/christopherallison/.virtualenvs/py_twi/search_tweets.py",
+		"/Users/christopherallison/.virtualenvs/py_twi/get_followers.py",
+		"/Users/christopherallison/.virtualenvs/py_twi/twitter_network_mod.py",
+		"/Users/christopherallison/.virtualenvs/py_twi/list_unfollowers.py",
+		"/Users/christopherallison/.virtualenvs/py_twi/process_tweets.py",
 		"/Users/christopherallison/.virtualenvs/py_twi/data/karate_graph.json",
 		"/Users/christopherallison/.virtualenvs/py_twi/w2p.json",
 		"/Users/christopherallison/.virtualenvs/py_twi/%23bigdata.json",
@@ -806,17 +761,7 @@
 		"/Users/christopherallison/.virtualenvs/persona2/persona2/.boto",
 		"/Users/christopherallison/.virtualenvs/persona2/bin/gunicorn_start.sh",
 		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_nation.html",
-		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_artifact.html",
-		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_membership.html",
-		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_scene.html",
-		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_chapter.html",
-		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_organization.html",
-		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/collections.html",
-		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_location.html",
-		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/edit_character.html",
-		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_ability.html",
-		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_trait.html",
-		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_character.html"
+		"/Users/christopherallison/.virtualenvs/persona2/persona2/templates/personas/delete_artifact.html"
 	],
 	"find":
 	{
@@ -1024,117 +969,55 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "py_twi.py",
+					"file": "stream_twitter.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1752,
+						"buffer_size": 1857,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								804,
-								804
+								1036,
+								1036
 							]
 						],
 						"settings":
 						{
-							"auto_name": "import twitter",
+							"auto_name": "from tweepy import Stream",
 							"syntax": "Packages/Python/Python.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 442.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "get_followers.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6522,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								272,
-								272
-							]
-						],
-						"settings":
-						{
-							"auto_name": "import tweepy",
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "search_tweets.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2458,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1867,
-								1898
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "search_twitter_to_json.py",
-					"semi_transient": false,
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 4947,
+						"buffer_size": 4948,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2649,
-								2649
+								3833,
+								4045
 							]
 						],
 						"settings":
@@ -1143,133 +1026,11 @@
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
-						"translation.y": 659.0,
+						"translation.x": 8.0,
+						"translation.y": 1431.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "process_tweets.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1469,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "import nltk",
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "list_unfollowers.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2063,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2063,
-								2063
-							]
-						],
-						"settings":
-						{
-							"auto_name": "mport tweepy",
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 418.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "twitter_network_mod.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 951,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								115,
-								115
-							]
-						],
-						"settings":
-						{
-							"auto_name": "import glob",
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "visualize.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1516,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								55,
-								1477
-							]
-						],
-						"settings":
-						{
-							"auto_name": "import networkx as net",
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1314,7 +1075,7 @@
 	{
 		"height": 100.0
 	},
-	"pinned_build_system": "",
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
 	"project": "twitter_analysis.sublime-project",
 	"replace":
 	{
@@ -1361,7 +1122,7 @@
 	{
 	},
 	"show_minimap": true,
-	"show_open_files": true,
+	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 150.0,

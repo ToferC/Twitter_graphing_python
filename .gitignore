@@ -21,4 +21,6 @@ twitter-users/
 include
 .ipynb_checkpoints
 .Python
+.json
+.png
 
