@@ -24,3 +24,4 @@ include
 *.json
 .png
 /streaming_results/*.json
+/streaming_results
