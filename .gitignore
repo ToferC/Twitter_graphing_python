@@ -21,6 +21,6 @@ twitter-users/
 include
 .ipynb_checkpoints
 .Python
-.json
+*.json
 .png
-
+/streaming_results/*.json
