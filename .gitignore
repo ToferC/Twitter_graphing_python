@@ -23,7 +23,6 @@ include
 .Python
 *.json
 .png
-/streaming_results/*.json
-/streaming_results
+streaming_results/
 
 Twitter NX Tweet Graph.ipynb
