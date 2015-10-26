@@ -24,5 +24,9 @@ include
 .Python
 *.json
 .png
+*.ipynb_checkpoints
+*.Python
+*.json
+*.png
 
 Twitter NX Tweet Graph.ipynb
