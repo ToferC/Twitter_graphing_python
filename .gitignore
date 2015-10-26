@@ -18,7 +18,10 @@ lib/
 man/
 share/
 twitter-users/
+streaming_results/
 include
-.ipynb_checkpoints
-.Python
+*.ipynb_checkpoints
+*.Python
+*.json
+*.png
 
