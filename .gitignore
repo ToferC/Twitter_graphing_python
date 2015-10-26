@@ -20,8 +20,13 @@ share/
 twitter-users/
 streaming_results/
 include
+.ipynb_checkpoints
+.Python
+*.json
+.png
 *.ipynb_checkpoints
 *.Python
 *.json
 *.png
 
+Twitter NX Tweet Graph.ipynb
