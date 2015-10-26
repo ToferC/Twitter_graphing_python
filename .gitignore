@@ -24,5 +24,6 @@ include
 *.json
 .png
 streaming_results/
+streaming_results/*.json
 
 Twitter NX Tweet Graph.ipynb
