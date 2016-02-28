@@ -11,7 +11,7 @@ FRIENDS_OF_FRIENDS_LIMIT = 1000
 RESULTS_DIR = "results"
 
 if not os.path.exists(FOLLOWING_DIR):
-    os.makedir(FOLLOWING_DIR)
+    os.mkdir(FOLLOWING_DIR)
 
 # The consumer keys can be found on your application's Details
 # page located at https://dev.twitter.com/apps (under "OAuth settings")
@@ -83,7 +83,10 @@ def search_twitter_to_json(query, count=100, maxtweets=1000):
                 for result in new_tweets:
 
                     for result in new_tweets:
-                        print (result.text)
+                        try:
+                            print (result.text)
+                        except UnicodeError:
+                            print("Unknown character")
                         print (result.created_at)
                         print (result.retweet_count)
                         print("")
