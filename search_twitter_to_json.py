@@ -102,7 +102,7 @@ def search_twitter_to_json(query, count=100, maxtweets=1000):
                         'reply_to': result.in_reply_to_screen_name,
                         'coordinates': result.coordinates,
                         'reply_to_tweet': result.in_reply_to_status_id,
-                        'user_screen_name': result.user.screen_name,
+                        'user_screen_name': result.user.screen_name.lower(),
                         'quoted_status': result.is_quote_status,
                         'lang': result.lang,
                         'entities': result.entities,
